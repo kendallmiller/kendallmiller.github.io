@@ -13,7 +13,10 @@ said to me
 
 > Kendall - Calm down. They can only fire you.
 
-I panicked - I've never been fired from anything and that seemed like just about the worst thing that could happen.
+I panicked - They could fire me?  I've never been fired from anything and that seemed like just about the worst thing that could happen.
 She continued..
 
 > They can't kill you, they can't take away your family - they can only fire you. And you'll be fine.
+
+She was right.  I'm used to going all in on the projects I'm engaged in and it's easy to overstate
+how important the drama is of whatever's going on around us.  
