@@ -1,13 +1,12 @@
 ---
-layout: post
-title: Effort doesn't equal Value
-description: We naturally assume anything that's difficult must be worth it - but it turns out how much others value what we've accomplished is independent of how hard it was to achieve.
-date: 2020-04-24 15:01:35 +0300
-image: '/images/post-8.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
-tags: [fashion, workflow, rest]
+layout: page
+title: About
+description: Experienced executive ready to lead a new SaaS organization to produce amazing results.
+permalink: /about/
 ---
 
-# It was hard, but worth it!
+## Experienced, Hands-on Software as a Service executive ready to lead a new organization to deliver outstanding products and services.
 
-How many times have we all said that?
+* **Build and Lead Teams that Deliver**: Combining strategic vision, experience, and a hands-on leadership style to forge high-functioning teams and processes that last.
+* **Bridge the Business / Technology Divide**: Collaborate with company leaders, investors and clients to define, evangelize and deliver a product vision through technology.
+* **Create Lasting Value**: Partner with the CEO to catalyze innovative products, services, and processes that enhance brands and increase long-term valuation.
