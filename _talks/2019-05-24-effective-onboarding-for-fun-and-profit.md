@@ -8,7 +8,7 @@ image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) o
 tags: [Product, Onboarding]
 ---
 
-<p><iframe src="https://www.youtube.com/embed/BvVNGTAbPss" loading="lazy" frameborder="0" allowfullscreen> </iframe></p>
+<p><iframe src="https://www.youtube.com/embed/BvVNGTAbPss" loading="lazy" frameborder="0" style="width: 100%; aspect-ratio: 16 / 9;" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></p>
 
 # Effective Onboarding for Fun & Profit
 

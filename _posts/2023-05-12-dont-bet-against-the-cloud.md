@@ -11,7 +11,7 @@ tags: [Products, Onboarding]
 > This article is focused on small and mid-sized companies, say up to 250 employees in techincal disciplines.
 > If you're operating at Netflix scale, a) you don't care what this article says and b) it's not for you.
 
-# Why renewed interest in self-hosting?
+# Why the renewed interest in self-hosting?
 
 It was inevitable - after a decade of a steady shift in computing from self-hosted & colocation facilities
 to Cloud Service Providers (CSP) (think Amazon Web Services, Google Cloud Platform, and Microsoft Azure) it seems like

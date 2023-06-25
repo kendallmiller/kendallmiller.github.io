@@ -8,7 +8,7 @@ image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) o
 tags: [Aviation, Devops]
 ---
 
-<p><iframe src="https://www.youtube.com/embed/XnpFEegjVI4" loading="lazy" frameborder="0" allowfullscreen> </iframe></p>
+<p><iframe src="https://www.youtube.com/embed/XnpFEegjVI4" loading="lazy" frameborder="0" style="width: 100%; aspect-ratio: 16 / 9;" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></p>
 
 # Fly the Enterprise
 
