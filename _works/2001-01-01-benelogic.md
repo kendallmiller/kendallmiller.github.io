@@ -8,7 +8,7 @@ image: '/images/work-1.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 
-I Oversaw the development of the IT infrastructure and product development of a Software as a Service (SaaS) benefits administration system that serves hundreds of mid-sized and large employers across the United States. Led the company from its initial startup to sustained profitability with over 15 million in annual revenue from technology services.
+I oversaw the development of the IT infrastructure and product development of a Software as a Service (SaaS) benefits administration system that serves hundreds of mid-sized and large employers across the United States. Led the company from its initial startup to sustained profitability with over 15 million in annual revenue from technology services.
 
 ## IT Operations
 

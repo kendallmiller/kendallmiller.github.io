@@ -36,10 +36,10 @@ costs or customer demographics.
 
 # Example: Agile Software Development
 
-In the mid 2000s most software teams shifted from traditional software development practices 
+In the mid 2000s, most software teams shifted from traditional software development practices 
 (broadly lumped into the "Waterfall" camp) to one or more flavor of "Agile" software development.  
 From the outside, this appears a fundamental change in how development teams and the organizations
-that contain them produce software.  Let's break it down into the Principles, Strategies, and Tactics.
+that contain them produce software.  Let's break it down into Principles, Strategies, and Tactics.
 
 ## Traditional Software Development
 
@@ -64,7 +64,7 @@ Now take the same table but for contemporary teams using an Agile process:
 | Deliver on a Budget | Incremental Delivery | Develop and Deliver completed blocks of functionality independently |
 |  |  | Demo frequently to end users  |
 
-You'll notice the Principles haven't changed, the strategies have a bit (but still
+You'll notice the principles haven't changed, the strategies have a bit (but still
 connect) and the tactics are completely different.  In short, development teams are taking
 advantage of the advances in software development tools to adopt new tactics based on the
 most important strategies needed to deliver the same goals.
