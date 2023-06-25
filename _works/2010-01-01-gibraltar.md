@@ -4,7 +4,7 @@ description: Create a commercial software product for embedded application telem
 category: Executive
 date: 2022-01-05 08:01:35 +0300
 role: Chief Technology Officer
-image: '/images/work-6.jpg'
+image: '/images/work-2.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 

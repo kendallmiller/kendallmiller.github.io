@@ -4,7 +4,7 @@ description: Create a messaging infrastructure for a distributed publisher provi
 category: Consulting Projects
 date: 2022-01-05 08:01:35 +0300
 role: Program Manager
-image: '/images/work-6.jpg'
+image: '/images/work-5.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 

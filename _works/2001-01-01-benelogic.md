@@ -4,7 +4,7 @@ description: Data-driven multitenant benefits administration SaaS
 category: Executive
 date: 2022-01-05 08:01:35 +0300
 role: Chief Information Officer
-image: '/images/work-6.jpg'
+image: '/images/work-1.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 
