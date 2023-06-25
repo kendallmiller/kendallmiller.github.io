@@ -10,20 +10,18 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
+#    - title: 'Home'
+#      url: '/'
     - title: 'About'
       url: '/about/'
     - title: 'Work'
       url: '/work/'
+    - title: 'Talks'
+      url: '/talks/'
     - title: 'Writing'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
@@ -46,8 +44,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: So, how can I help?
-  hero__description: Hi, I'm Kendall – A seasoned CTO / COO specializing in Software-as-a-Service IT transformation and startups.
+  hero__title: Lets make something great!
+  hero__description: Hi, I'm Kendall – A seasoned CTO / COO specializing in SaaS products and companies.
   hero__image: "/images/01-1.jpg"
 
 
@@ -55,7 +53,7 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: I’ve worked with some great сompanies
+  logos__title: I’ve worked with some great companies
 
 logo__items:
   - name: Google
@@ -170,7 +168,16 @@ blog:
 
 blog__settings:
   blog__title: Writing
-  blog__description:
+  blog__description: Articles on the strategy & tactics of commercial SaaS product & company leadership
+
+#-------------------------------
+# Talks Section
+talks:
+  enable: true
+
+talks__settings:
+  talks__title: Talks
+  talks__description: Presentations on product design, IT Strategy, and general technology
 
 
 #-------------------------------

@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://KendallWMiller.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Build Settings
@@ -23,6 +23,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  talks:
+    output: true
+    permalink: /talks/:slug
   works:
     output: true
     permalink: /work/:slug
@@ -41,6 +44,11 @@ defaults:
   - scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "talks"
     values:
       layout: "post"
   - scope:

@@ -3,9 +3,9 @@ layout: post
 title: But does it benefit you?
 description: You've gone and implemented all the best practices in modern software development but.. will it help?
 date: 2022-02-01
-image: '/images/post-8.jpg'
+image: '/images/post-3.jpg'
 image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
-tags: [fashion, workflow, rest]
+tags: [strategy, leadership]
 ---
 
 So you've adopted every inch of the DevOps Handbook and can publish four new versions of your SaaS application every day.

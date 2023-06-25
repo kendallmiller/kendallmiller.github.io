@@ -1,0 +1,18 @@
+{% assign talksCounted = site.talks | size %}
+{% assign talksCovered = site.paginate | plus:offset %}
+{% if talksCovered < talksCounted %}
+<!-- begin pagination -->
+<div class="container animate">
+  <div class="pagination">
+    <button class="load-more-posts button button--primary">More Talks <i class="ion ion-md-arrow-down"></i></button>
+  </div>
+</div>
+<!-- end pagination -->
+{% endif %}
+
+<script>
+  var base_url = "",
+    pagination_next_url = base_url + '/talk/page2',
+    pagination_next_page_number = '{{ paginator.next_page }}',
+    pagination_available_pages_number = '{{ paginator.total_pages }}';
+</script>

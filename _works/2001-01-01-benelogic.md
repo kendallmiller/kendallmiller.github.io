@@ -12,7 +12,7 @@ I Oversaw the development of the IT infrastructure and product development of a 
 
 ## IT Operations
 
-Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing and facilities. Established success criteria for processes and procedures and facilitated their development. 
+Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing, and facilities. Established success criteria for processes and procedures and facilitated their development. 
 
 ## Product Development
 
@@ -26,4 +26,4 @@ Participated in business strategy at the corporate level including direct operat
 
 ## Sales Support
 
-Assisted company in large account sales and performed direct sales for clients that required Information Systems exclusively.
+Assisted the company in large account sales and performed direct sales for clients that required Information Systems exclusively.
