@@ -3,8 +3,6 @@ layout: post
 title: How does a CPU actually work?
 description: 'Megahertz, Gigahertz, Registers, and Instructions: How does a CPU actually work?'
 date: 2019-03-19
-image: '/images/post-8.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [Product, Onboarding]
 ---
 

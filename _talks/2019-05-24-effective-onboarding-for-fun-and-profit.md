@@ -3,8 +3,6 @@ layout: post
 title: Effective Onboarding for Fun & Profit
 description: How not to be the best application no one uses
 date: 2019-05-24
-image: '/images/post-8.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [Product, Onboarding]
 ---
 

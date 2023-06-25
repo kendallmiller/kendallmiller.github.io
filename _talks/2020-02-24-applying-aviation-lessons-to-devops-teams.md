@@ -3,8 +3,6 @@ layout: post
 title: Fly the Enterprise
 description: Applying Aviation Lessons to DevOps Teams
 date: 2020-02-24
-image: '/images/post-8.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [Aviation, Devops]
 ---
 
