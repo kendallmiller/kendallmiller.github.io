@@ -17,7 +17,7 @@ description: I've worked with a range of SaaS startups and companies looking to 
 
 <div class="work-page container animate">
   <div class="row">
-    {% assign works = site.work | reversed %}
+    {% assign works = site.work | sort: 'date' | reverse %}
     {% for work in works %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">

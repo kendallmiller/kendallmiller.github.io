@@ -23,7 +23,6 @@ description:
           {% if site.talks.size > 0 %}
           {% assign orderedTalks = site.talks | sort: "date" | reverse %}
             {% for post in orderedTalks %}
-            {{ post.title }}
               {% include article.html %}
             {% endfor %}
           {% endif %}
