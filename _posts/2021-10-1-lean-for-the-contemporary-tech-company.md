@@ -3,6 +3,7 @@ layout: post
 title: Lean and the contemporary tech company
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
 date: 2021-10-01
+series: Lean and the Contemporary Tech Company
 image: '/images/post-1.jpg'
 image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [executive, work]
@@ -10,7 +11,7 @@ tags: [executive, work]
 
 Introduced and codified by Eliyahu Goldratt in [The Goal: A Process of Ongoing Improvement](https://a.co/d/5S873wu) in 1984, Lean Manufacturing and the Lean / Six Sigma movements it inspired were created for a different era - before the Internet was ubiquitous and software took over the world.  It's easy to dismiss them as ancient thinking, particularly in technology companies where the shelf life of our toolsets is measured in months, not decades but I've found it as relevant as ever to focus teams on the work that will _make a difference_. 
 
-I first was introduced to Lean / Six Sigma in the 1990s while working at John Deere.  Deere was working on a corporate-wide adoption and seeing the practices it advocates could be applied not just in the manufacturing parts of the company but corporate management and Information Technology (where I worked) as well.
+I was first introduced to Lean / Six Sigma in the 1990s while working at John Deere.  Deere was working on a corporate-wide adoption and seeing the practices it advocates could be applied not just in the manufacturing parts of the company but corporate management and Information Technology (where I worked) as well.
 
 Two decades later while working through how to address some company-wide challenges I read [The Phoenix Project](https://a.co/d/5ZsSk8o).  _The Phoenix Project_ attempts to retell nearly the same story as _The Goal_, just written from the standpoint of a team producing business-critical software, not business-critical parts manufacturing.  It's a good read - but if you want to broadly adopt it I'd recommend reading _The Goal_ to ensure you understand the core of why Lean works and how to adopt it in your company.
 
@@ -22,13 +23,19 @@ Lean for manufacturing has ten principles, but the key ones that apply to a SaaS
 2. Eliminate waste (anything that is not valued by the customer)
 3. Continuous improvement (small, incremental enhancements delivered to customers)
 
-## Focus product decisions on clear customer value
+## Maximize Customer Value
 
-The first key distinction of Lean is to define value as only things delivered to people _outside of the team doing the work_.  The focus is on what your customers will perceive as valuable and maximize what you can deliver for them.  Imagine that your entire company is an opaque box, and value is what it produces for folks outside the box.  
+The first key distinction of Lean is to define value as only things delivered to people _outside of the organization doing the work_.  The focus is on what your customers will perceive as valuable and maximize what you can deliver for them.  Imagine that your entire company is an opaque box, and value is what it produces for folks outside the box.  
 
 For example, if you have an eCommerce SaaS the key value might be that you enable customers to send money to another customer.  If either end of that exchange was within your organization, it's probably not Value from a Lean standpoint.  Someone paying their bill for your system isn't value, it's just something they have to do to get value from you.
 
-When looking at proposed enhancements, make sure the team is clearly articulating the Value to the customer - what change will be visible outside your organization once the change is completed and delivered.
+When looking at proposed enhancements, make sure the team is clearly articulating the Value to the customer - what change will be visible outside your organization once the change is completed and delivered.  Knowing what value is being delivered (and to what subset of your customers) helps you marshal your whole organization in support of the effort:
+
+* Marketing knows who they need to reach (the target customers) with what messaging (the value of the new capability).
+* Sales can figure out how they'll communicate the value of the new capabilities when available.
+* Leadership can estimate how much revenue can be expected and when.
+
+To put this to work with your team, see [Maximizing Value in Product Decisions](using-lean-value-to-make-great-product-decisions).
 
 ## Eliminating Waste
 
@@ -58,8 +65,9 @@ The good news is if your team has already adopted an agile development process, 
 
 # Learn More
 
-Check out my whole series of articles on Lean for the Contemporary SaaS:
+Check out my whole series of articles on {{ page.series }}:
 
+{% include series-list.html %}
 
 If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but read through the goals and tradeoffs and use it for ideas on what can help and why.
 

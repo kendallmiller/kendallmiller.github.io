@@ -2,7 +2,8 @@
 layout: post
 title: Focus your team on time to market
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
-date: 2021-10-01
+date: 2021-11-01
+series: Lean and the Contemporary Tech Company
 image: '/images/post-1.jpg'
 image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [executive, work]
@@ -38,5 +39,9 @@ I went back to the leadership team and posed the question - what if we could cut
 In short, we could improve EBITDA and open up more capacity (critical in a smaller company) by doing everything we could to drive our customer to go live faster.
 
 # Learn More
+
+Check out my whole series of articles on {{ page.series }}:
+
+{% include series-list.html %}
 
 If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but read through the goals and tradeoffs and use it for ideas on what can help and why.

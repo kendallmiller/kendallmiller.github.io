@@ -1,0 +1,8 @@
+<ul>
+{% assign series_posts = site.posts | where_exp: "post", "post.series == page.series" | sort: "date" %}
+{% for post in series_posts %}
+    {% if post.title != page.title %}
+    <li><b><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></b>: {{ post.description }}</li>
+    {% endif %}
+{% endfor %}
+</ul>

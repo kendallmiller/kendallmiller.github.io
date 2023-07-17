@@ -1,0 +1,28 @@
+---
+layout: default
+title: Series
+description: 
+permalink: /series/
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">Series</h1>
+    <p class="page-description">Collections of articles on strategy & tactics of commercial SaaS product & company leadership</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="section-small">
+        <div class="section__inner grid">
+            {% assign series_groups = site.posts | where_exp: "post", "post.series" | group_by:"series" %}
+            {% for series in series_groups %}
+                {% include series.html %}
+            {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

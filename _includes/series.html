@@ -1,0 +1,5 @@
+<h2 class="article__title">{{series.name}}</h2>  
+{% assign posts = series.items | sort: "date" %}  
+{% for post in posts %}
+{% include article.html %}
+{% endfor %}
