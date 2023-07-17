@@ -11,7 +11,7 @@ This article is part of a series on [Lean for the Contemporary Tech Company](lea
 
 # Focusing on Reducing Latency
 
-The critical common thread I've seen in successful Lean adoption has been a focus on reducing cycle time. In manufacturing the value of this is nearly self-evident: the faster you go from order to shipped, the faster you get revenue and the more revenue you can generate per month.  In tech, the gains can be softer to see because we're selling goods we don't have to build per-customer.  
+The critical common thread I've seen in successful Lean adoption has been a focus on reducing cycle time. In manufacturing the value of this is nearly self-evident: the faster you go from order to shipped, the faster you get revenue and the more revenue you can generate per month.  In tech, the gains can be softer to see because we're selling goods we don't have to build per customer.  
 
 I've seen two major areas where focusing on _delivering value to the customer faster_ has paid off for our business:
 
@@ -22,7 +22,7 @@ I've seen two major areas where focusing on _delivering value to the customer fa
 
 When adding the [Monitor module](https://onloupe.com/products/monitor/) to Loupe we were very focused on the needs of Operations teams, in contrast to our initial focus on the "Dev" side of DevOps.  Our product team did all the right things to figure out what we should be building, for whom, and the difference it would make.  Our first version of the new functionality did a great job of highlighting application problems and providing the right information to fix them quickly.  It built on our existing functionality so our current customer base could easily adopt it and bring a whole new aspect of their organization into the fold.
 
-In our first demo of the completed system to a _new_ customer, they asked "OK, so how do I know that everything's running right? I mean, what if I just deployed an app, how do I know it's working?" As we kept talking with the customer, it was clear we missed a key point: absense of an alert only means the system isn't _reporting_ a problem.  For our customer to rest easy they need to be sure they're receiving requests, processing traffic - whatever their system is designed to do.  That's what they want to purchase: A system that gives them confidence they can sign off and go about their lives.
+In our first demo of the completed system to a _new_ customer, they asked "OK, so how do I know that everything's running right? I mean, what if I just deployed an app, how do I know it's working?" As we kept talking with the customer, it was clear we missed a key point: absence of an alert only means the system isn't _reporting_ a problem.  For our customers to rest easy they need to be sure they're receiving requests, processing traffic - whatever their system is designed to do.  That's what they want to purchase: A system that gives them confidence they can sign off and go about their lives.
 
 We'd had a lot of customer conversations - but those were with customers that already had bought into our vision of the product.  With our focus on the tactics of application monitoring, we'd not gone far enough back in the value stream to understand what human needs would motivate our customers to implement (and purchase) a product like ours.
 
@@ -34,7 +34,7 @@ One company I worked with sold primarily to government customers under subscript
 
 I went back to the leadership team and posed the question - what if we could cut in half the time from RFP acceptance to go live?  What would it do to our finances?  As the team laid it out quarter-by-quarter it became clear that pulling forward the revenue would substantially help us meet our corporate goals (namely EBITDA) and likely for little if any additional cost.  We charged fixed fees for implementation, typically based on the first year's projected transaction or subscription revenue so reducing our effort hours didn't hurt our revenue.  Better yet, because much of our effort hours were associated with periodic meetings that went on from signing until Go-Live shortening the duration would reduce our costs.
 
-In short, we could improve EBITDA and open up more capacity (critical in a smaller company) by doing everything we could to drive our customer to go live faster.
+In short, we could improve EBITDA and open up more capacity (critical in a smaller company) by doing everything we could to drive our customers to go live faster.
 
 # Learn More
 

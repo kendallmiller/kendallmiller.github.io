@@ -46,7 +46,7 @@ To make user stories all encompasing, the notion of _customer_ is replaced with 
 
 "As a user I want to log in so I may access the system".  
 
-The underlying reason these user stories feel off is that they're attempt to describe a waste process as value:  User's never value logging into the system.  Logging in is a tax they have to pay to do what they want to do.  Now, I can imagine you're saying "But users value the system being secure, so they value logging in!"  Let's take the case they do value security - what if you could provide satisfactory security but they never saw a login screen, would they value your solution _more_ or _less_?  I'm betting more - meaning the login page is currently type 1 waste, not value.
+The underlying reason these user stories feel off is that they're attempt to describe a waste process as value:  Users never value logging into the system.  Logging in is a tax they have to pay to do what they want to do.  Now, I can imagine you're saying "But users value the system being secure, so they value logging in!"  Let's take the case they do value security - what if you could provide satisfactory security but they never saw a login screen, would they value your solution _more_ or _less_?  I'm betting more - meaning the login page is currently type 1 waste, not value.
 
 One option is to shift from the user to the party that is driving the need, even if they're internal.  For example:
 
