@@ -3,9 +3,7 @@ layout: post
 title: Don't Bet Against the Cloud
 description: Amazon and others seem to be shifting away from the cloud to self-hosted, owned hardware in data centers - what's going on?
 date: 2022-02-01
-image: '/images/post-4.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
-tags: [Products, Onboarding]
+tags: [Cloud, Management]
 ---
 
 > This article is focused on small and mid-sized companies, say up to 250 employees in techincal disciplines. If you're operating at Netflix scale, a) you don't care what this article says and b) it's not for you.

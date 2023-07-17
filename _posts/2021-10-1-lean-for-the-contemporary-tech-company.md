@@ -4,9 +4,7 @@ title: Lean and the contemporary tech company
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
 date: 2021-10-01
 series: Lean and the Contemporary Tech Company
-image: '/images/post-1.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
-tags: [executive, work]
+tags: [Lean, Management, Products]
 ---
 
 Introduced and codified by Eliyahu Goldratt in [The Goal: A Process of Ongoing Improvement](https://a.co/d/5S873wu) in 1984, Lean Manufacturing and the Lean / Six Sigma movements it inspired were created for a different era - before the Internet was ubiquitous and software took over the world.  It's easy to dismiss them as ancient thinking, particularly in technology companies where the shelf life of our toolsets is measured in months, not decades but I've found it as relevant as ever to focus teams on the work that will _make a difference_. 

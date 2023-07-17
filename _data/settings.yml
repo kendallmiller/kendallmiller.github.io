@@ -50,18 +50,6 @@ hero:
 
 
 #-------------------------------
-# Logos Settings
-logos:
-  enable: false
-  logos__title: I’ve worked with some great companies
-
-logo__items:
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
-
-
-#-------------------------------
 # Newsletter
 mailchimp:
   enable: true

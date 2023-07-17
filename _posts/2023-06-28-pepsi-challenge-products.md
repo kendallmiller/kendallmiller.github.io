@@ -3,8 +3,6 @@ layout: post
 title: Pepsi Challenge Products
 description: Your product is attractive and inviting, but will users stay around long enough to drink the whole can?
 date: 2022-02-01
-image: '/images/post-4.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
 tags: [Products, Onboarding]
 ---
 
