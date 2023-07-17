@@ -11,3 +11,5 @@ Led the team of developers, designers, business analysts, and marketing speciali
 * **Industry-leading Audit & Traceability**: Platform was built around a versioned data strategy where the state of every record over time is tracked and related back to the specific business transaction that established it, enabling easy tracing from any state back to the organization and user that requested it and approved it.
 * **Low Operating Costs**: Optimized for hosting in Microsoft Azure using all Platform-as-a-Service capabilities so costs scaled with customer growth.
 * **Integrated with External Services for Business Operations**: Designed the platform to be event driven and easy to integrate with external services for marketing automation, accounting, and other operations tasks.
+
+The product we created is still in use today and sustained the company through to an acquisition into a larger portfolio of related services.
