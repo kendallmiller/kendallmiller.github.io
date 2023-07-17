@@ -1,5 +1,5 @@
 {% if site.data.settings.work.enable == true %}
-<!-- begin works -->
+<!-- begin work -->
 <div class="container">
   <section class="section works animate">
     <div class="row">
@@ -10,13 +10,13 @@
           {% if site.data.settings.work.work__description %}
           <p class="section__description">{{ site.data.settings.work.work__description }}</p>
           {% endif %}
-          <a href="{{ '/work' | relative_url }}" class="section__link">Show all works <i class="ion ion-md-arrow-forward"></i></a>
+          <a href="{{ '/work' | relative_url }}" class="section__link">Show all work <i class="ion ion-md-arrow-forward"></i></a>
         </div>
       </div>
 
       <div class="col col-8 col-d-12">
         <div class="row">
-          {% assign sorted = site.works | sort: 'date' | reverse %}
+          {% assign sorted = site.work | sort: 'date' | reverse %}
           {% for work in sorted limit:4 %}
           <article class="work col col-6 col-d-12">
             <div class="work__content">
@@ -41,5 +41,5 @@
     </div>
   </section>
 </div>
-<!-- end works -->
+<!-- end work -->
 {% endif %}
