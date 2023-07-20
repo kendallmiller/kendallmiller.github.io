@@ -53,7 +53,7 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "works"
+      type: "work"
     values:
       layout: "work"
 

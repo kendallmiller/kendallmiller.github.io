@@ -4,6 +4,8 @@ description: Create a multi-tenant cloud-hosted platform for corporate legal ser
 category: Consulting Projects
 date: 2014-05-01
 role: Program Manager
+image: '/images/multitenant-saas-startup.jpg'
+image_caption: 'Photo by [Austin Distel](https://unsplash.com/@austindistel)'
 ---
 
 Led the team of developers, designers, business analysts, and marketing specialists to help an existing legal services company rebuild as a cloud-hosted startup.  Created a resellable platform for providing Registered Agency services to the original company's clients as well as other smaller Registered Agents to enable them to compete with the dominant industry players.

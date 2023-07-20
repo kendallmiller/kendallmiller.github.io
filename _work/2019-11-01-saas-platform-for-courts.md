@@ -4,6 +4,8 @@ description: Create an inflection point for growth while modernizing the technol
 category: Executive
 date: 2019-11-01
 role: Chief Technology Officer / Chief Operating Officer
+image: '/images/court-saas.jpg'
+image_caption: 'Photo by [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm)'
 ---
 
 I'm just completing my work with File & ServeXpress to ensure it's positioned as an enduringly competitive option

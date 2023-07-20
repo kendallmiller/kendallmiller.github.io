@@ -4,6 +4,8 @@ description: Data-driven multitenant benefits administration SaaS
 category: Executive
 date: 2001-04-01
 role: Chief Information Officer
+image: '/images/benefits-admin-saas.jpg'
+image_caption: 'Photo by [National Cancer Institute](https://unsplash.com/@nci)'
 ---
 
 **Hands-on leadership** of all company technology from its initial startup to sustained profitability with over 15 million in annual revenue from technology services.

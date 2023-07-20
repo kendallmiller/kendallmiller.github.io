@@ -4,6 +4,8 @@ description: Create a messaging infrastructure for a distributed publisher provi
 category: Consulting Projects
 date: 2018-01-01
 role: Program Manager
+image: '/images/esb-for-publishing.jpg'
+image_caption: 'Photo by [Arif Riyanto](https://unsplash.com/@arifriyanto)'
 ---
 
 # Create an Event-driven Enterprise
