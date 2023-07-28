@@ -3,8 +3,8 @@ layout: post
 title: But does it benefit you?
 description: You've gone and implemented all the best practices in modern software development but.. will it help?
 date: 2022-02-01
-image: '/images/post-3.jpg'
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
+image:
+image_caption:
 tags: [strategy, leadership]
 ---
 
