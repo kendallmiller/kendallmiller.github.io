@@ -20,8 +20,8 @@ menu__settings:
       url: '/talks/'
     - title: 'Writing'
       url: '/blog/'
-    - title: 'Contact'
-      url: '/contact/'
+#    - title: 'Contact'
+#      url: '/contact/'
 
 
 #-------------------------------
@@ -52,7 +52,7 @@ hero:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
