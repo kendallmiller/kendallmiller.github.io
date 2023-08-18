@@ -12,7 +12,7 @@ image_caption: 'Photo by [National Cancer Institute](https://unsplash.com/@nci)'
 
 # IT Operations
 
-Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing and facilities. Established success criteria for processes and procedures and facilitated their development. 
+Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing, and facilities. Established success criteria for processes and procedures and facilitated their development. 
 
 # Product Development
 
@@ -23,7 +23,7 @@ Recruited and directed the product development team. Oversaw outsourcing partner
 
 # Operational Support 
 
-Collaborated with the CEO and COO to drive business strategy at the corporate level including direct operational support. Assumed responsibilities of Chief Operating Officer for a four-month period.
+Collaborated with the CEO and COO to drive business strategy at the corporate level including direct operational support. Assumed responsibilities of Chief Operating Officer for four months during a critical annual business cycle.
 
 # Sales Support
 

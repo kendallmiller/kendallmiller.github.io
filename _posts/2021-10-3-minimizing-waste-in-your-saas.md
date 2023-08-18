@@ -30,7 +30,7 @@ When you look at it that way, more waste emerges:
 
 Each of these things may be very useful and very dear to your team, but your customer won't pick you or pay more for them: They assume you make software that works, they don't see or interact with your mockups, and they expect you to operate your system reliably and securely.   That's all table stakes.
 
-# How to minimize Waste, deliver more, and delight your customers
+# How to Minimize Waste, deliver more, and delight your customers
 
 
 

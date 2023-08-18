@@ -18,7 +18,7 @@ And we've been teaching ourselves a lie.
 
 Let's say you want to hire someone to mow your lawn each week.  What do you value?
 
-* **The Lawn is mowed when the grass gets long enough**: Depending on the weather, grass will grow faster or slower; you don't care about it being mowed each week as much as you want it mowed often enough your lawn doesn't look like it needs mowing.
+* **The Lawn is mowed when the grass gets long enough**: Depending on the weather, grass will grow faster or slower; you don't care about it being mowed each week as much as you want it mowed often enough that your lawn doesn't look like it needs mowing.
 * **Clippings are cleaned up**: You probably want all of the grass clippings cleaned off your driveway and the sidewalk; if you're bagging the clippings you want them taken away, in short - you want your property to look tidy.
 * **All the grass is cut**: Regardless of the equipment used you want to be sure it's edged and trimmed so all of the grass is cut.
 
@@ -28,7 +28,7 @@ Now let's say you're a vendor: You could use a set of hand sheers, a push mower,
 
 # Value isn't Cost either
 
-If you follow this train of logic to its conclusion, value isn't directly scaled by cost either.  Something cheap can be of poor value, and something expensive can be a great value.  I was lucky to start my career with John Deere when they introduced the concept of Genuine Value - that a product can still be a great value even if it was more expensive than a competitive product as long as it exceeded the customer's expectations.  The core idea is to build a product great enough to justify its price.
+If you follow this train of logic to its conclusion, value isn't directly scaled by cost either.  Something cheap can be of poor value, and something expensive can be of great value.  I was lucky to start my career with John Deere when they introduced the concept of Genuine Value - that a product can still be of great value even if it was more expensive than a competitive product as long as it exceeded the customer's expectations.  The core idea is to build a product great enough to justify its price.
 
 This thinking drives the virtuous circle that great brands understand - like Apple, John Deere, and Disney:
 

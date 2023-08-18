@@ -1,11 +1,13 @@
 ---
-title: Commercial Application Telemetry Product
-description: Create a commercial software product for embedded application telemetry within .NET applications
+title: Critical Application Consultancy
+description: Create a software consultancy focused on solving hard performance, availability, and scalability problems for organizations.
 category: Executive
 date: 2008-01-01
 role: Chief Technology Officer
 ---
 
-Led team iterating in the market to refine a developer-oriented product over 10 years and five major releases. Worked with subject matter experts to create long-tail content to drive interest, introduce marketing automation to drive customer conversion, and outside UX teams to upgrade and refine the UI based on customer feedback.
+I partnered with a trusted consultant I had worked with on previous engagements to create a new software consultancy (Gibraltar Software) focused on solving difficult application problems for customers, typically in performance-critical aspects of their platforms.  
 
-* Introduced a centralized logging platform for .NET applications in 2010.
+As we took on projects, we recognized the repeating needs of our customers and created [Loupe](/work/loupe), an application monitoring product for .NET applications, that we used during engagements to gather key real-world data necessary to diagnose and solve problems.
+
+During my 11 years with Gibraltar Software, I led the team to identify and execute a product acquisition, [VistaDB](https://vistadb.com), and grew our team from two people in a self-funded startup to a peak of 15 full-time and 5 contractors in three countries serving clients worldwide.

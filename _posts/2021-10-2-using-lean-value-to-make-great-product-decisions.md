@@ -11,7 +11,7 @@ This article is part of a series on [Lean for the Contemporary Tech Company](lea
 
 Lean product management defines value as products or services delivered to people _outside of the organization doing the work_.  The focus is on maximizing what your customers will perceive as valuable.  For most SaaS technology companies that means it excludes anything you deliver to internal teams[^largeteams] (like say a report to the Accounting department or your security auditors).  
 
-When looking at proposed enhancements, make sure the team is clearly articulating the value _to the customer_ - what change will be visible outside your organization once the work is completed and shipped.  Then, strive to maximize how much customer value can be delivered per unit of time as the key metric for the team's success.  That will tend to move high-value & lower effort items to the top of the list (since lower effort nearly always means less time to complete).  
+When looking at proposed enhancements, make sure the team is clearly articulating the value _to the customer_ - what change will be visible outside your organization once the work is completed and shipped?  Then, strive to maximize how much customer value can be delivered per unit of time as the key metric for the team's success.  That will tend to move high-value & lower effort items to the top of the list (since lower effort nearly always means less time to complete).  
 
 If you've participated in an Agile software development project you've probably come across User Stories.  Popularized by Scrum, a User Story is a brief explanation of a software feature written from the perspective of the end user, typically in the form "As a (user persona) I want to (perform a task) so that I (achieve a result)".  This aligns with the Lean definition of value - it's from the perspective of a user of the system, describes something they want to achieve and a method to achieve it.
 
@@ -30,7 +30,7 @@ Initially, your team may struggle with this but if your instincts are it's worth
 
 * What change would our customers see from this work?  If they can't see anything, it's waste.
 * Once delivered, can customers do things they couldn't do before?
-* Does this save customers time, in a time-critical point?
+* Does this save customers time, at a time-critical point?
 
 # Pitfalls in Value
 
@@ -42,11 +42,11 @@ Watch out for a few common problems that may prevent your customers from getting
 
 # Forcing all work to be value
 
-To make user stories all encompasing, the notion of _customer_ is replaced with _user_ and expanded to be anyone that interacts with the system.[^userstorydef]  It's a necessary compromise for a process that associates all work with a User Story, but it pushes teams to force-fit everything into value-add language, often resulting in stories that feel contrived or even silly, like:
+To make user stories all encompassing, the notion of _customer_ is replaced with _user_ and expanded to be anyone that interacts with the system.[^userstorydef]  It's a necessary compromise for a process that associates all work with a User Story, but it pushes teams to force-fit everything into value-add language, often resulting in stories that feel contrived or even silly, like:
 
-"As a user I want to log in so I may access the system".  
+"As a user, I want to log in so I may access the system".  
 
-The underlying reason these user stories feel off is that they're attempt to describe a waste process as value:  Users never value logging into the system.  Logging in is a tax they have to pay to do what they want to do.  Now, I can imagine you're saying "But users value the system being secure, so they value logging in!"  Let's take the case they do value security - what if you could provide satisfactory security but they never saw a login screen, would they value your solution _more_ or _less_?  I'm betting more - meaning the login page is currently type 1 waste, not value.
+The underlying reason these user stories feel off is that they attempt to describe a waste process as value:  Users never value logging into the system.  Logging in is a tax they have to pay to do what they want to do.  Now, I can imagine you're saying "But users value the system being secure, so they value logging in!"  Let's take the case they do value security - what if you could provide satisfactory security but they never saw a login screen, would they value your solution _more_ or _less_?  I'm betting more - meaning the login page is currently type 1 waste, not value.
 
 One option is to shift from the user to the party that is driving the need, even if they're internal.  For example:
 

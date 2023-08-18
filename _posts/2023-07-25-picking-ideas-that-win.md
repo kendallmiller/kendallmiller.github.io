@@ -87,7 +87,7 @@ Since I have none of those things, I wouldn't take on that startup idea.  Not be
 
 ### It's not about the technology
 
-In the example above, you'll notice it doesn't include any execution factors. You don't want to lean into a reason such as you'd execute better, faster, cheaper, or using a particular technology.  Those items can be achieved by any team that has funding and time.  You need something that's hard for someone else to replicate so you have the space and time to create a product, bring it to market, and carve out a niche for yourself.
+In the example above, you'll notice it doesn't include any execution factors. You don't want to lean into a reason such as you'd execute better, faster, cheaper, or using a particular technology.  Those items can be achieved by any team that has funding and time.  You need something hard for someone else to replicate so you have the space and time to create a product, bring it to market, and carve out a niche for yourself.
 
 ### What if I can't find a reason?
 

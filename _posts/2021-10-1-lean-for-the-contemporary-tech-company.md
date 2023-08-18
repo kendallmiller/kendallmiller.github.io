@@ -57,11 +57,11 @@ For some real-world examples of the difference this thinking can make, see [FOcu
 
 # This sounds a lot like Agile
 
-You're not wrong - the Agile movement sprang out of an effort to apply Lean and Six Sigma principles to software development.  You can see the alignment when looking at what the [Agile Manifesto](https://agilemanifesto.org/) says is important.  It emphasizes respecting people in the process, delivering value to customers, and short cycles to respond to change.  You're probably familiar with a specific process that's intended to align with Agile - like Scrum, Kanban, or SAFe.  These processes are specific tactics that are intended to deliver on the strategies and principles of Lean - but they may not in your organization.  That's why it's essential to understand the underlying principles to be sure you've picked the right set of tactics for you.
+You're not wrong - the Agile movement sprang out of an effort to apply Lean and Six Sigma principles to software development.  You can see the alignment when looking at what the [Agile Manifesto](https://agilemanifesto.org/) says is important.  It emphasizes respecting people in the process, delivering value to customers, and short cycles to respond to change.  You're probably familiar with a specific process that's intended to align with Agile - like Scrum, Kanban, or SAFe.  These processes are specific tactics that are intended to deliver on the strategies and principles of Lean - but they may not be in your organization.  That's why it's essential to understand the underlying principles to be sure you've picked the right set of tactics for you.
 
 Scrum, perhaps the most well-known Agile software development process, emphasizes starting with User Stories, typically in the form "As a (user persona) I want to (perform a task) so that I (achieve a result)".  This aligns with the Lean definition of value - it's from the perspective of a user of the system, describes something they want to achieve and a method to achieve it.
 
-The good news is if your team has already adopted an agile development process, adding an organizational focus on Lean will build on that investment and accelerate your whole company's growth.  Agile processes and their related tools give you a set of tactics that can minimize waste but you'll need to do the work to be sure your team is earnestly focusing on customer value and continuous improvement processes that extend all the way to the customer.
+The good news is if your team has already adopted an agile development process, adding an organizational focus on Lean will build on that investment and accelerate your whole company's growth.  Agile processes and their related tools give you a set of tactics that can minimize waste but you'll need to do the work to be sure your team is earnestly focusing on customer value and continuous improvement processes that extend to the customer.
 
 # Learn More
 
@@ -69,6 +69,6 @@ Check out my whole series of articles on {{ page.series }}:
 
 {% include series-list.html %}
 
-If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but read through the goals and tradeoffs and use it for ideas on what can help and why.
+If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but read through the goals and tradeoffs and use them for ideas on what can help and why.
 
 [^1]: Even if you might enjoy walking around the Dallas airport and getting some Texas BBQ, unless you'd pay _more_ to go through Dallas it isn't value.

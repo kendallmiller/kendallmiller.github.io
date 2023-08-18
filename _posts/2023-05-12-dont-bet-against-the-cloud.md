@@ -32,7 +32,7 @@ Whenever I speak with customers about how to frame cloud costs, I encourage them
 
 Let's take Microsoft SQL Server for example.  I've used it at every company I've ever worked at, starting in the 90s at John Deere and up through my latest.  It's been the very core of the business, in some ways *the business* at most of these companies.  I've spent tremendous amounts to make sure it performs well, is backed up, and we can restore it no matter what.  Still, if you told me my job depended on the ability to, at the drop of a hat, restore production to any requested 5-minute checkpoint in the last week and do it in an hour I'd be sweating bullets.  It takes a lot to guarantee, at scale, you can restore that database (not the least of which is the excess capacity to have a second copy of production).
 
-With Azure SQL, it's built in.  It's just there.  Want to take your 250GB database and get a copy from 20 minutes ago?  Three clicks in a web UI.  Oh, you want to go to last Tuesday at 8:12 AM?  Three clicks.
+With Azure SQL, it's built-in.  It's just there.  Want to take your 250GB database and get a copy from 20 minutes ago?  Three clicks in a web UI.  Oh, you want to go to last Tuesday at 8:12 AM?  Three clicks.
 
 If you've run an IT operations team, think about how many engineers it takes to keep all of the infrastructure your application runs on operating securely and reliably.  That's a lot of staff - staff you also have to retain, keep current, and consider when you want to adopt new technologies.
 
@@ -51,16 +51,16 @@ To match this level of service, you'd have to employ a substantial team of profe
 
 When I'm asked to come in from the outside and look at a business I look for the centers of gravity - where the company is investing its people and attention.  I compare this to what they *say* they value to see how well it aligns.  When evaluating a center of gravity, my key question is _will a customer buy our product because of this?_  If the answer is no, I encourage the company to shift that focus to a vendor that answers yes.
 
-By releasing that center of gravity, I eliminate most of the drag it places on decision making within the company.  For example, if our company is exceptional at running applications on Windows Server & Microsoft SQL Server, there's going to be a lot of reluctance to take on using Linux, Mongo, and Elastic for a new application.  What will we do with our experts in Windows & SQL Server?  Do we need a second team while we transition?  Will we even transition, or end up running both? (Yes, you'll end up with both - for a long while at least).  
+By releasing that center of gravity, I eliminate most of the drag it places on decision-making within the company.  For example, if our company is exceptional at running applications on Windows Server & Microsoft SQL Server, there's going to be a lot of reluctance to take on using Linux, Mongo, and Elastic for a new application.  What will we do with our experts in Windows & SQL Server?  Do we need a second team while we transition?  Will we even transition, or end up running both? (Yes, you'll end up with both - for a long while at least).  
 
-When working with CSP, picking Linux or Windows is more like picking between Chocolate and Vanilla Ice Cream - just say what you want when you order.  Or have a scoop of both.  This means you can focus your decision making on what helps you compete most effectively for customers.
+When working with CSP, picking Linux or Windows is more like picking between Chocolate and Vanilla Ice Cream - just say what you want when you order.  Or have a scoop of both.  This means you can focus your decision-making on what helps you compete most effectively for customers.
 
 # So, how do I control my costs?
 
 I've found success with adopting internal review practices with periodic reviews of what we're utilizing with different goals:
 
 * **Daily Quick Check** I set up a dashboard with the daily & monthly costs of our CSP.  This is typically broken down by "subscription" (you may have just one, I've had up to six in one company).  This lets me catch outliers fast (oops, we provisioned a giant database accidentally!) as well as general trends.
-* **Monthly Team Review** A small group of the leadership responsible for the resources we run in the CSP meet once a month to check items "Up for review" (more on that below) and the general trends.  Are we using an uncomfortable amount of compute?  Perhaps time to go optimize the application driving it.  Same with databases, storage, etc.
+* **Monthly Team Review** A small group of the leadership responsible for the resources we run in the CSP meets once a month to check items "Up for review" (more on that below) and the general trends.  Are we using an uncomfortable amount of compute?  Perhaps time to go optimize the application driving it.  Same with databases, storage, etc.
 * **Quarterly Push** Two or three times a year I ask the team "What would we do if we needed to cut our CSP costs by 25%?"  This often surfaces some interesting tradeoffs where we would need to do some more serious engineering work but the benefit would be a notable cost reduction.
 
 The focus here is to:
