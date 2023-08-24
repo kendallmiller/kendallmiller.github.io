@@ -38,7 +38,7 @@ This thinking drives the virtuous circle that great brands understand - like App
 
 This cycle works both ways - if you start by aiming at the "cheap value" market, you'll have low margins and be known as the low-cost player.  That limits what you can invest in your products, making it very difficult to expand into new products or increase your margins. Your only path to revenue growth is volume.
 
-There is a limit to value pricing - for a given product, above a certain point there just is no rational value play to be made.  This is the territory of luxury goods and luxury brands.  If you're in that space you'll have entirely different considerations at play.
+There is a limit to value - for a given product, above a certain point there just is no rational value play to be made.  This is the territory of luxury goods and luxury brands.  If you're in that space you'll have entirely different pricing considerations.
 
 # Aim for Genuine Value
 
