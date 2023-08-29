@@ -2,7 +2,8 @@
 layout: post
 title: Lean and the contemporary tech company
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
-date: 2021-10-01
+date: 2023-07-01
+last_modified_at: 2023-08-21
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

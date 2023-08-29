@@ -2,7 +2,8 @@
 layout: post
 title: Effort doesn't equal Value
 description: We naturally assume anything that's difficult must be worth it - but it turns out how much others value what we've accomplished is independent of how hard it was to achieve.
-date: 2018-04-13
+date: 2023-04-13
+last_modified_at: 2023-08-20
 image: 
 image_caption: 
 tags: [strategy, leadership]

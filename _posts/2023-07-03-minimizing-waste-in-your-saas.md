@@ -2,7 +2,8 @@
 layout: post
 title: Minimizing waste in your SaaS company
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
-date: 2021-10-03
+date: 2023-07-03
+last_modified_at: 2023-08-16
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

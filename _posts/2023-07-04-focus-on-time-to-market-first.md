@@ -2,7 +2,8 @@
 layout: post
 title: Focus your team on time to market
 description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
-date: 2021-11-01
+date: 2023-07-04
+last_modified_at: 2023-08-12
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

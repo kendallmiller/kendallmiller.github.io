@@ -2,7 +2,8 @@
 layout: post
 title: Don't Bet Against the Cloud
 description: Amazon and others seem to be shifting away from the cloud to self-hosted, owned hardware in data centers - what's going on?
-date: 2022-02-01
+date: 2023-05-12
+last_modified_at: 2023-08-04
 tags: [Cloud, Management]
 ---
 
