@@ -3,6 +3,7 @@ title: Critical Application Consultancy
 description: Create a software consultancy focused on solving hard performance, availability, and scalability problems for organizations.
 category: Executive
 date: 2008-01-01
+last_modified_at: 2023-08-20
 role: Chief Technology Officer
 ---
 

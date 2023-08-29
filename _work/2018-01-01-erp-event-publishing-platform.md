@@ -3,6 +3,7 @@ title: Enterprise Service Bus for Publishing Syndicate
 description: Create a messaging infrastructure for a distributed publisher providing customer data from a legacy ERP to modern platforms in multiple data centers at scale.
 category: Consulting Projects
 date: 2018-01-01
+last_modified_at: 2023-08-20
 role: Program Manager
 image: '/images/esb-for-publishing.jpg'
 image_caption: 'Photo by [Arif Riyanto](https://unsplash.com/@arifriyanto)'
