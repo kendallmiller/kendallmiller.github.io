@@ -3,6 +3,7 @@ layout: post
 title: Avoiding the Contributor Trap
 description: Your ability to get things done has gotten you promoted throughout your career.  To keep growing you're going to need to leave that behind and change strategies to avoid the contributor trap
 date: 2022-02-01
+series: From Developer to Director
 tags: [Leadership]
 ---
 

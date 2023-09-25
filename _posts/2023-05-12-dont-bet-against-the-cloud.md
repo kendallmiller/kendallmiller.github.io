@@ -7,7 +7,7 @@ last_modified_at: 2023-08-04
 tags: [Cloud, Management]
 ---
 
-> This article is focused on small and mid-sized companies, say up to 250 employees in techincal disciplines. If you're operating at Netflix scale, a) you don't care what this article says and b) it's not for you.
+> This article is focused on small and mid-sized companies, say up to 250 employees in technical disciplines. If you're operating at Netflix scale, a) you don't care what this article says and b) it's not for you.
 
 # Why the renewed interest in self-hosting?
 
@@ -17,23 +17,31 @@ Meanwhile, you've been watching your CSP spending go up year-on-year and are sta
 
 **TL;DR - You're not.  Keep on going.  For why, keep reading.**
 
-# Ways CSPs encourage you to spend
-
-The very capabilities that make the Cloud attractive also neatly bypass most traditional cost controls.
-
-* **Speed of Access** You can provision expensive resources in moments without signing contracts, waiting for hardware, or allocating internal resources.
-* **Seemingly Low Prices** CSP rates are typically in cents - per minute, second, thousand operations, whatever.  This plays into human psychology of making it seem cheap. I mean, for pennies an hour you too can have a SQL database!
-* **Short-term Fixes** It's always cheaper in the short term to scale up your hosting than change your application to use fewer resources.  It's less risky too.  Fixing that memory problem may cost 100 developer hours but doubling the memory of your cluster nodes only costs $150 each a month.
-* **Massive Service Catalog** Want to try out a new database technology or experiment with a different container host? You can create it all! But, you'll be paying for more and more hosting and services as you go.
-* **Uncertainty over Use** It takes a lot of work to know when you can safely decommission a resource and what would be impacted.  It often feels safer to just eat the $20 each month than risk it.
-
 # What you get with a CSP
 
-Whenever I speak with customers about how to frame cloud costs, I encourage them to consider managed services as not just the hardware, software, and networking they are directly replacing but also the staff required to manage them at the same level as a CSP.
+To understand the tradeoffs between using a CSP and going it yourself, I recommend focusing on these key points:
+
+1. **Flexibility**: You can adjust your scale, technologies, and locations without concern for your hosting capabilities. 
+2. **Operational Excellence**: You get a team of experts in every aspect of operating systems at scale.
+3. **Focus**: You get to decide what aspects of operations are worth your team's focus and which ones aren't.
+
+## Flexibility
+
+The biggest competitive advantage of using a CSP - even if it costs more - is flexibility.  You've probably already taken advantage of the ability to scale up and down on demand, but if you're operating a large enough scale you can do that within your data center or a low-cost virtualization provider.  Using a CSP goes well beyond that - you can provision as much infrastructure as you want, quickly, and then discard it just as quickly - for every type of infrastructure you want.  This can unleash a range of options for your team so they can deliver more in less time.  
+
+For example, you could provision an entire new environment every time you do a release so you can run in parallel and prove that it'll all work before you go live.  Doing this isn't just about compute power - it's also duplicating your data.  Scaling storage, and the corresponding infrastructure to clone data on demand, is often the biggest challenge and an easy cost to overlook.
+
+The greater benefit a CSP can offer you is the flexibility to adapt to changes in your competitive landscape.  Think back to a year ago - was integrating AI into your products on your roadmap?  Was it at the top? CSP's have been working on hosting AI (both as services and the infrastructure necessary to build models and host them).  AI uses specialized hardware to build and run - and with your application living in the cloud it's a lot easier to route data into a new service and integrate the results.  
+
+When major technology shifts happen it's also difficult to pick the winning options - so you want to make it easy to experiment with a few approaches and not get too committed to any one until the industry shakes out. Flexibility means when the industry changes you can move quickly, focusing on how you can adapt to meet those changes.
+
+## Operational Excellence
+
+Whenever I speak with customers about how to frame cloud costs, I encourage them to consider managed services as not just the hardware, software, and networking they are directly replacing but also the staff required to manage them at the same level as a CSP.  In my experience, organizations quickly forget how expensive it is to maintain systems once they've shifted to AWS or Azure, so it's easy to dramatically underestimate how much it'd cost to bring them back in house.
 
 Let's take Microsoft SQL Server for example.  I've used it at every company I've ever worked at, starting in the 90s at John Deere and up through my latest.  It's been the very core of the business, in some ways *the business* at most of these companies.  I've spent tremendous amounts to make sure it performs well, is backed up, and we can restore it no matter what.  Still, if you told me my job depended on the ability to, at the drop of a hat, restore production to any requested 5-minute checkpoint in the last week and do it in an hour I'd be sweating bullets.  It takes a lot to guarantee, at scale, you can restore that database (not the least of which is the excess capacity to have a second copy of production).
 
-With Azure SQL, it's built-in.  It's just there.  Want to take your 250GB database and get a copy from 20 minutes ago?  Three clicks in a web UI.  Oh, you want to go to last Tuesday at 8:12 AM?  Three clicks.
+With Azure SQL, it's built-in.  It's just there.  Want to take your 250GB database and get a copy from 20 minutes ago?  _Three clicks in a web UI_.  Oh, you want to go to last Tuesday at 8:12 AM?  Three clicks.
 
 If you've run an IT operations team, think about how many engineers it takes to keep all of the infrastructure your application runs on operating securely and reliably.  That's a lot of staff - staff you also have to retain, keep current, and consider when you want to adopt new technologies.
 
@@ -42,21 +50,33 @@ When you go to a CSP and leverage their Platform-as-a-Service (PaaS) offerings, 
 * **Facilities**: A secure facility with power, cooling, and internet.
 * **Hardware**: The hardware for networking, compute, and storage paid for incrementally as you use it.
 * **Software**: Software licensing, tracked and paid for incrementally.  
-* **Software Supply Chain**: For pure Open Source, your mainstream CSP is making sure they have the right images of the OSS and worst case can act quickly if it's discovered it's compromised.  
+* **Supply Chain**: For Open Source Software, your mainstream CSP is making sure they have the right images of the OSS and worst case can act quickly if it's discovered it's compromised.  Your CSP has special arrangements with hardware manufactures to ensure they're getting everything they need to keep expanding.
 * **Best Practices Operations**: The CSP staff are experts at running that particular piece of software at scale on their hardware.  Provisioning, backups, etc - automated and solved for you.
 * **Continual Security**: CSP's are patching their system stacks and managing vulnerabilities.
 
-To match this level of service, you'd have to employ a substantial team of professionals.  So, when comparing costs to host it yourself vs. a CSP be sure you're including the staffing time it'll take to operate your infrastructure at the same level of rigor the CSP would.
+To match this level of service, you'd have to employ a substantial team of professionals.  So, when comparing costs to host it yourself vs. a CSP be sure you're including the staffing costs to operate your infrastructure at the same level of rigor the CSP would, 24x7x365
 
-# Prepare for Escape Velocity
+# Focus on Delivering
 
 When I'm asked to come in from the outside and look at a business I look for the centers of gravity - where the company is investing its people and attention.  I compare this to what they *say* they value to see how well it aligns.  When evaluating a center of gravity, my key question is _will a customer buy our product because of this?_  If the answer is no, I encourage the company to shift that focus to a vendor that answers yes.
 
-By releasing that center of gravity, I eliminate most of the drag it places on decision-making within the company.  For example, if our company is exceptional at running applications on Windows Server & Microsoft SQL Server, there's going to be a lot of reluctance to take on using Linux, Mongo, and Elastic for a new application.  What will we do with our experts in Windows & SQL Server?  Do we need a second team while we transition?  Will we even transition, or end up running both? (Yes, you'll end up with both - for a long while at least).  
+By releasing that center of gravity, I eliminate most of the drag it places on decision-making within the company.  For example, if our company is exceptional at running applications on Windows Server & Microsoft SQL Server, there's going to be a lot of reluctance to take on using Linux, MongoDB, and ElasticSearch for a new application.  What will we do with our experts in Windows & SQL Server?  Do we need a second team while we transition?  Will we even transition, or end up running both? (Yes, you'll end up with both - for a long while at least).  
 
 When working with CSP, picking Linux or Windows is more like picking between Chocolate and Vanilla Ice Cream - just say what you want when you order.  Or have a scoop of both.  This means you can focus your decision-making on what helps you compete most effectively for customers.
 
-# So, how do I control my costs?
+# Ways CSPs encourage you to spend
+
+The very capabilities that make the Cloud attractive also neatly bypass most traditional cost controls.
+
+* **Speed of Access**: You can provision expensive resources in moments without signing contracts, waiting for hardware, or allocating internal resources.
+* **Seemingly Low Prices**: CSP rates are typically in cents - per minute, second, thousand operations, whatever.  This plays into the psychology of making it seem cheap. I mean, for pennies an hour you too can have a SQL database!
+* **Short-term Fixes**: It's always cheaper in the short term to scale up your hosting than change your application to use fewer resources.  It's less risky too.  Fixing that memory problem may cost 100 developer hours but doubling the memory of your cluster nodes only costs $150 each a month.
+* **Massive Service Catalog**: Want to try out a new database technology or experiment with a different container host? You can create it all! But, you'll be paying for more and more hosting and services as you go.
+* **Uncertainty over Use**: It takes a lot of work to know when you can safely decommission a resource and what would be impacted.  It often feels safer to just eat the $20 each month than risk it.
+
+It's easy for your costs to climb well over your expectations without you noticing.  Pulling them back can take a bit of thought as well because it's not one decision but dozens that got you there.  
+
+## So, how do I control my costs?
 
 I've found success with adopting internal review practices with periodic reviews of what we're utilizing with different goals:
 
@@ -75,4 +95,4 @@ One trick we do - in Azure, we tag each resource with a review date and an owner
 
 # Learn More
 
-David Heinemeir Hansson's article on why [37Signals is shifting out of the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) is well thought out and his reasoning _makes sense for his company and where he wants to take it._ The question for you is how much your situation matches his.  Reading through his article, I suspect the ultimate motivation isn't financial but spelled out near the end - he's uncomfortable with the incredible centralization of power that's reflected in just a few CSPs.
+David Heinemeir Hansson's article on why [37Signals is shifting out of the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) is well thought out and his reasoning _makes sense for his company and where he wants to take it._ The question for you is how much your situation matches his.  For example - 37Signals runs at a fairly large and stable scale with a consistent tech stack.  That predictability and scale can offer economics that reduces the advantage of CSP's.  Reading through his article, I suspect the ultimate motivation isn't financial but spelled out near the end - he's uncomfortable with the incredible centralization of power that's reflected in just a few CSPs.  He's also posted a [followup on their first round of cost reductions](https://world.hey.com/dhh/our-cloud-exit-has-already-yielded-1m-year-in-savings-db358dea), but it's telling that it focuses just on costs of bare metal hosting vs. managed services.

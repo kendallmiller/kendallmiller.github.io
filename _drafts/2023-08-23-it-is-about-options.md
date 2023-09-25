@@ -13,7 +13,7 @@ As a new manager, you probably intuit that telling leadership a simple no likely
 
 # Refocus on the Outcome
 
-First, I recommend having an open conversation with the leaership that's making the request to understand what they want to achieve with it - what problem it solves, and how they got to that being the right path.  Most of the time, folks ask for what they think they can get, not what they really need.  With your technical background and knowledge of the existing systems in the organization you may be able to see alternate ways to get to the outcome once you understand it.
+First, I recommend having an open conversation with the leadership that's making the request to understand what they want to achieve with it - what problem it solves, and how they got to that being the right path.  Most of the time, folks ask for what they think they can get, not what they really need.  With your technical background and knowledge of the existing systems in the organization you may be able to see alternate ways to get to the outcome once you understand it.
 
 It's critical to approach this conversation as a collaboration - you're not asking them to justify why they want what they want but instead clarify what they're hoping it achieves.  If they suspect you're trying to find a path to say no it'll likely cause them to become entrenched in their proposed solution.  To help avoid this, stay away from talking about the problems with delivering what they've asked - and keep an open mind that perhaps what they're proposing really is more impottant than everything else and you'll end up compromising elsewhere.
 
