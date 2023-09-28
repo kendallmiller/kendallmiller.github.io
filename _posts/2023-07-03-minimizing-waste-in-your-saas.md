@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimizing waste in your SaaS company
-description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
+description: See how Lean principles can deliver more for your customers and make your team happier too by building on the practices you're already adopting.
 date: 2023-07-03
 last_modified_at: 2023-08-16
 series: Lean and the Contemporary Tech Company
@@ -33,13 +33,13 @@ Each of these things may be very useful and very dear to your team, but your cus
 
 # How to Minimize Waste, deliver more, and delight your customers
 
-The key to minimizing waste is to ensure your customers values on the work products everyone on your team produces.  The most reliable way to ensure this is to regularly confirm this with your customers.
+The key to minimizing waste is to ensure your customers value the work products everyone on your team produces.  The most reliable way to ensure this is to regularly confirm this with your customers.
 
 ## Integrate Customer Feedback in Product Development
 
-From the moment you last confirmed a product change with your customers until you demonstrate the solution, you're going at risk that you may miss the mark and the effort was wasted.  Consider each of these a bet you're making that you understand the customer's needs, the market, and your team's abilities: You want to be sure these bets win.  The smaller you can make each bet, the lower the risk is that you've gone far afield and will have to discard a significant amount of work.  
+From the moment you last confirm a product change with your customers until you demonstrate the solution, you're going at risk that you may miss the mark and the effort was a waste.  Consider each of these a bet you're making that you understand the customer's needs, the market, and your team's abilities: You want to be sure these bets win.  The smaller you can make each bet, the lower the risk is that you've gone far afield and will have to discard a significant amount of work.  
 
-In an ideal world, you'd be continually delivering small units of value to your customers and have a way to measure (efficiently) that it's achieving the result you expected and is a net positive for them.  This is the driving goal behind Continuous Delivery - realize the value of your work as quickly as possible and get feedback so if you go in the wrong direction you didn't go very far.
+In an ideal world, you'd be continually delivering small units of value to your customers and have a way to measure (efficiently) that it's achieving the result you expected and is a net positive for them.  This is the driving goal behind Continuous Delivery - realize the value of your work as quickly as possible and get feedback so if you go in the wrong direction you don't go very far.
 
 When I work with teams, evangelizing Continuous Delivery (also known as CI/CD) isn't hard - it's become a staple of modern Agile development teams.  But, I also find that they've rarely given a thought to gathering customer feedback so they can be sure the work they quickly delivered is useful and well received.  
 
@@ -54,29 +54,29 @@ If you've integrated customer feedback into your product development cycle you'l
 
 From here, pick the action to take as a team based on both what theory (or theories) seem most likely and what actions are easiest.  
 
-### Don't Outrun your Data
+### Don't Outrun Your Data
 
-It is very tempting when you're looking at a theory for what's going on to keep expanding to futher actions:  If the theory is true then we should do this action, and if that work shen we should do these three follow up actions.  Perhaps we should pivot the whole UI from being layed out in a long page flow to a tabbed flow, or from a tabbed flow to a long page flow.. 
+It is very tempting when you're looking at a theory for what's going on to keep expanding to further actions:  If the theory is true then we should do this action, and if that works then we should do these three follow-up actions.  Perhaps we should pivot the whole UI from being laid out in a long page flow to a tabbed flow, or from a tabbed flow to a long page flow... 
 
-The father you go down this path, the less your thinking is suppoted by data and the risker the paths are.  Let's say you have 80% confidence in each decision on the path - by the time you've gone four decisions in, you're at 40%.  Those are poor odds.  
+The farther you go down this path, the less your thinking is supported by data and the riskier the paths are.  Let's say you have 80% confidence in each decision on the path - by the time you've gone four decisions in, you're at 40%.  Those are poor odds.  
 
 > Instead, don't outrun your data - pick an action that is affordable, build and deploy it, and get more data.  
 
 ## Prioritize Building 
 
-There are a wealth of activites your team can do that work in the direction of solving a problem but aren't part of the final work product.  For example:
+There are a wealth of activities your team can do that work in the direction of solving a problem but aren't part of the final work product.  For example:
 
 * Architecture Diagrams
 * UI Mockups
 * Interactive Demos
 
-I like to employ each of these in different aspects of products I've worked on - they can clarify decisions, communicate a unified vision across the team, and spot problems early.  But, they can also give the illusion of progress when employed too frequently or for too long in the process.  These are all prototypin activities - you'll need to repeat some of the work to build the real solution youcan ship, and once you do they're obsolete.  That means, as nice as they are, they're waste from an overall process standpoint.
+I like to employ each of these in different aspects of products I've worked on - they can clarify decisions, communicate a unified vision across the team, and spot problems early.  But, they can also give the illusion of progress when employed too frequently or for too long in the process.  These are all prototyping activities - you'll need to repeat some of the work to build the real solution you can ship, and once you do they're obsolete.  That means, as nice as they are, they're waste from an overall process standpoint.
 
-When considering if it's worth doing a prototyping activity, the team should be clear on what risk they're intended to mitigate and bad that risk would be if it came to pass.  That gives you a strong guide for how much it's worth investing in the prototype.  If the risk is high but the impact is low then it's probably better to just take your best guess, build it, and change the implementation if the risk comes to pass.  
+When considering if it's worth doing a prototyping activity, the team should be clear on what risk they mitigate and how bad that risk would be if it came to pass.  That gives you a strong guide for how much it's worth investing in the prototype.  If the risk is high but the impact is low then it's probably better to just take your best guess, build it, and change the implementation if the risk comes to pass.  
 
 > Prototypes are throw-away: Have a clearly articulated risk to mitigate, go until that's mitigated and move on to build it for real.
 
-I've never had a UI design, no matter how much time we spent in the prototyping phase, make it to production without significant alteration.  There's no substitute to being able to interact with a system, with real data, solving a real problem.  Your best risk mitigation is to get there as quickly as you can.
+I've never had a UI design, no matter how much time we spent in the prototyping phase, make it to production without significant alteration.  There's no substitute for being able to interact with a system, with real data, solving a real problem.  Your best risk mitigation is to get there as quickly as you can.
 
 # Learn More
 
@@ -84,4 +84,4 @@ Check out my whole series of articles on {{ page.series }}:
 
 {% include series-list.html %}
 
-If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but read through the goals and tradeoffs and use it for ideas on what can help and why.
+If you want to put lean thinking into practice in your day-to-day technical work, [The DevOps Handbook](https://a.co/d/9lBeOaZ) is a great way to start.  It's important to not blindly adopt any particular practice from it but to read through the goals and tradeoffs and use it for ideas on what can help and why.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Focus your team on time to market
-description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
+description: See how going all-in on shipping features fast is an under-used super power that boosts revenue and drives growth for your business.
 date: 2023-07-04
 last_modified_at: 2023-08-12
 series: Lean and the Contemporary Tech Company

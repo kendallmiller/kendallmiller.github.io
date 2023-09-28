@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lean and the contemporary tech company
-description: How can a manufacturing philosophy of the 90s help us make a great technology company today?
+description: Explore the transformative potential of Lean for your SaaS and learn how to maximize customer value, eliminate waste, and implement continuous improvement strategies to fuel your success.
 date: 2023-07-01
 last_modified_at: 2023-08-21
 series: Lean and the Contemporary Tech Company
