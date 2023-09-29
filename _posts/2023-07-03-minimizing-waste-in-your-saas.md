@@ -50,7 +50,11 @@ To avoid this, I ask questions early on when we're evaluating what problem to so
 If you've integrated customer feedback into your product development cycle you'll soon have a lot of data to help guide your product decisions - like what features people use, how long it takes them to complete a goal, the rate of new customer acqusition, daily and monthly active users.. and more.  When you pick a problem to focus on and validate the problem from the data, I recommend coming up with two to three theories on what's driving the problem and therefore what you could do to address it.  For example:
 
 | Problem | Theory | Action |
-| 
+| --------|--------|--------|
+| Trial users aren't entering initial data so they never get any value. | They don't have the data they need (or are unsure) | Make it easy to invite other users that may have the data |
+| | | Add a quick summary of the data needed and a link to more documentation in the initial user experience |
+| | Users perceive the work to provide initial data as more than the reward of the app | Create some sample data so users can experience the reward before they enter the data. |
+| | | Create easier data load options to lower the bar - like importing from other common data stores for the same data |
 
 From here, pick the action to take as a team based on both what theory (or theories) seem most likely and what actions are easiest.  
 
@@ -60,7 +64,7 @@ It is very tempting when you're looking at a theory for what's going on to keep 
 
 The farther you go down this path, the less your thinking is supported by data and the riskier the paths are.  Let's say you have 80% confidence in each decision on the path - by the time you've gone four decisions in, you're at 40%.  Those are poor odds.  
 
-> Instead, don't outrun your data - pick an action that is affordable, build and deploy it, and get more data.  
+> Don't outrun your data - pick an action that is affordable, build and deploy it, and get more data.  
 
 ## Prioritize Building 
 
