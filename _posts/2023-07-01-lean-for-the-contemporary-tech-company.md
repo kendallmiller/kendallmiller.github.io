@@ -3,66 +3,66 @@ layout: post
 title: Lean and the contemporary tech company
 description: Explore the transformative potential of Lean for your SaaS and learn how to maximize customer value, eliminate waste, and implement continuous improvement strategies to fuel your success.
 date: 2023-07-01
-last_modified_at: 2023-08-21
+last_modified_at: 2023-10-01
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---
 
-Introduced and codified by Eliyahu Goldratt in [The Goal: A Process of Ongoing Improvement](https://a.co/d/5S873wu) in 1984, Lean Manufacturing and the Lean / Six Sigma movements it inspired were created for a different era - before the Internet was ubiquitous and software took over the world.  It's easy to dismiss them as ancient thinking, particularly in technology companies where the shelf life of our toolsets is measured in months, not decades but I've found it as relevant as ever to focus teams on the work that will _make a difference_. 
+Introduced and codified by Eliyahu Goldratt in [The Goal: A Process of Ongoing Improvement](https://a.co/d/5S873wu) in 1984, Lean Manufacturing and the Lean / Six Sigma movements it inspired were created for a different era - before the Internet was ubiquitous and software took over the world.  It's easy to dismiss them as ancient thinking, particularly in technology companies where the shelf life of our toolsets is measured in months, not decades.  Still, I've found it as relevant as ever to focus teams on the work that will _make a difference_. 
 
-I was first introduced to Lean / Six Sigma in the 1990s while working at John Deere.  Deere was working on a corporate-wide adoption and seeing the practices it advocates could be applied not just in the manufacturing parts of the company but corporate management and Information Technology (where I worked) as well.
+I was introduced to Lean / Six Sigma in the 1990s while working at John Deere.  Deere was adopting Lean / Six Sigma corporate-wide, having recognized that the practices it advocates could be applied not just in the manufacturing parts of the company but also in corporate management and Information Technology (where I worked).
 
-Two decades later while working through how to address some company-wide challenges I read [The Phoenix Project](https://a.co/d/5ZsSk8o).  _The Phoenix Project_ attempts to retell nearly the same story as _The Goal_, just written from the standpoint of a team producing business-critical software, not business-critical parts manufacturing.  It's a good read - but if you want to broadly adopt it I'd recommend reading _The Goal_ to ensure you understand the core of why Lean works and how to adopt it in your company.
+Two decades later, while working through some challenges I was facing as a newly-hired CTO, I found inspiration in [The Phoenix Project](https://a.co/d/5ZsSk8o).  This book tells a similar story as "The Goal" but from the perspective of a team producing business-critical software. It is a good read, but to fully adopt Lean practices, I recommend reading "The Goal" to understand why Lean works and how to apply it in your company.
 
 # Core Principles of Lean for SaaS
 
-The original Lean Thinking envisioned five principles, but the key ones that apply to a software technology business are:
+The original Lean Thinking had five principles, but for a software technology business, the key principles are:
 
-1. Focus on delivering value to the customer, called "Define Value"
-2. Eliminate waste (anything that is not valued by the customer), stated as "Map the Value Stream"
-3. Continuous improvement (small, incremental enhancements delivered to customers), called "Pursue Perfection"
+1. **Define Value**: Focus on delivering value to the customer. 
+2. **Map the Value Stream**: Eliminate waste, anything that the customer does not value. 
+3. **Pursue Perfection**: Continuous improvement, delivering small, incremental enhancements to customers.
 
 ## Maximize Customer Value
 
-The first key distinction of Lean is to define value as only things delivered to people _outside of the organization doing the work_.  The focus is on what your customers will perceive as valuable and maximize what you can deliver for them.  Imagine that your entire company is an opaque box, and value is what it produces for folks outside the box.  
+The first key distinction of Lean is to define Value as only things delivered to people _outside of the organization doing the work_.  The focus is on what your customers will perceive as valuable and maximize what you can do for them.  Imagine that your entire company is an opaque box, and Value is what it produces for folks outside the box.  
 
-For example, if you have an eCommerce SaaS the key value might be that you enable customers to send money to another customer.  If either end of that exchange was within your organization, it's probably not Value from a Lean standpoint.  Someone paying their bill for your system isn't value, it's just something they have to do to get value from you.
+For example, if you have an eCommerce SaaS, the key Value might be that you enable customers to send money to another customer.  If either end of that exchange was within your organization, it's probably not Value from a Lean standpoint.  Someone paying their bill for your system isn't Value; it's just something they have to do to get Value from you.
 
-When looking at proposed enhancements, make sure the team is clearly articulating the Value to the customer - what change will be visible outside your organization once the change is completed and delivered.  Knowing what value is being delivered (and to what subset of your customers) helps you marshal your whole organization in support of the effort:
+When looking at proposed enhancements, make sure the team is clearly articulating the Value to the customer - what change will be visible outside your organization once the change is completed and delivered.  Knowing what Value is being delivered - and to what subset of your customers - helps you marshal your whole organization in support of the effort:
 
-* Marketing knows who they need to reach (the target customers) with what messaging (the value of the new capability).
-* Sales can figure out how they'll communicate the value of the new capabilities when available.
+* Marketing knows who they need to reach (the target customers) with what messaging (the Value of the new capability).
+* Sales can figure out how they'll communicate the Value of the new capabilities when available.
 * Leadership can estimate how much revenue can be expected and when.
 
 To put this to work with your team, see [Maximizing Value in Product Decisions](using-lean-value-to-make-great-product-decisions).
 
 ## Eliminating Waste
 
-Waste is anything that you or your customers have to do that does not directly produce Value.  Ideally, every action your team would take would add value to your product or service.  In practice, this isn't feasible - it's always necessary to take on some non-value activities to run your business. But, we want to always be working to minimize it.
+Waste is anything you or your customers have to do that does not directly produce Value.  Ideally, every action your team takes adds Value to your product or service.  In practice, this isn't feasible - it's inevitably necessary to take on some non-value activities to run your business.  But, we want to always be working to minimize this effort.
 
-For example, let's say you purchase a ticket to fly from Baltimore, MD to Phoenix, AZ. It's quite likely you'll end up going through a stopover airport - like Dallas, TX.  This ticket might be significantly cheaper than the single direct flight from Baltimore to Phoenix.  Landing in Dallas has no additional value[^1] - you want to go from Baltimore to Phoenix.  But, you probably do it because it's a cheaper ticket.  It's cheaper for the airline because they can run flights consistently full by having fewer flights and that's facilitated by their hubs.  This is a good example of _Type 1 Waste_ - it's necessary but doesn't add value to the product or service.
+For example, let's say you purchase a ticket to fly from Baltimore, MD to Phoenix, AZ.  You'll likely end up going through a stopover airport - like Dallas, TX.  This ticket might be significantly cheaper than the single direct flight from Baltimore to Phoenix.  Landing in Dallas has no additional value[^1] - you want to go from Baltimore to Phoenix.  But, you'd take that option because it's a cheaper ticket.  It's cheaper for the airline because they can run flights consistently full by having fewer flights, and flying through their hubs facilitates that.  This is a good example of _Type 1 Waste_ - it's necessary but doesn't add Value to the product or service.
 
-Product teams often struggle with the concept that work delivered to internal parties isn't included as value. For example, activities like creating mockups, internal meetings, testing, etc. consume a great deal of the team's resources but aren't part of the value from a Lean perspective.  They're worth doing when they take less effort than the alternative.  Doing wireframes first then full designs is based on that being cheaper than building the whole app and making something that can't work.  If the cost of changing the app was low enough, it'd be cheaper to just build it and see if it delivers.
+Product teams often struggle with the concept that work delivered to internal parties isn't included as Value.  For example, activities like creating mockups, internal meetings, testing, etc., consume a great deal of the team's resources but don't generate Value from a Lean perspective.  They're worth doing when they take less effort than the alternative.  Doing mockups first, then full designs, is predicated on the assumption that it will be faster or cheaper than building the whole app and making something that can't work.  If the impact of changing the app were low enough, it'd be better just to build it and see if it delivers
 
-To understand how to adopt this, see [Minimizing Waste in your SaaS](minimizing-waste-in-your-saas).
+To understand how to adopt this principle of Lean, see [Minimizing Waste in your SaaS](minimizing-waste-in-your-saas).
 
 ## Implement Continuous Improvement
 
-Lean management advocates for delivering a continuous stream of small changes as opposed to less frequent, larger changes.  When your team has identified a change they want to make that improves value (or eliminates waste), find a low-effort, quick way to accomplish a version of the change and get it in the hands of customers as soon as possible.
+Lean management advocates for delivering a continuous stream of small changes instead of less frequent, larger ones.  When your team has identified a change they want to make that improves Value (or eliminates Waste), find a low-effort, quick way to accomplish the change and get it in your customers' hands as soon as possible.
 
-The goal is to minimize waste and maximize the value generated by the company at the same time - pulling forward as much as possible the value (by getting it in the hands of customers as soon as possible) and minimizing waste by keeping the team from investing in an idea that doesn't deliver. It's very easy for product teams to go deep on a new feature and ultimately waste a lot of effort by missing the mark and having to back up and try again. Even worse, by the time it's shipped the market may have moved on or customers don't value it as much as you expected.
+The goal is to minimize Waste and maximize Value generated by the company simultaneously - pulling forward the Value (by getting it in the hands of customers as soon as possible) and minimizing Waste by keeping the team from investing in an idea that doesn't deliver.  It's very easy for product teams to go deep on a new feature and ultimately waste a lot of effort by missing the mark and having to back up and try again.  Even worse, the market may have moved on by the time it's shipped, or customers don't value it as much as you expected.
 
-Contemporary software development places a lot of emphasis on being able to rapidly build and deploy changes, solving the complicated technical challenges to continuous improvement.  Where many teams fall short is putting in place the customer metrics, monitoring, and feedback to take advantage of this flexibility.  Speeding up the time from code to customer is only half the circle; the other half is knowing what results those changes have made.  
+Contemporary software development emphasizes rapidly building and deploying changes and has solved the complicated technical challenges to continuous improvement.  Where many teams fall short is putting in place the customer metrics, monitoring, and feedback to take advantage of this flexibility.  Speeding up the time from code to customer is only half the circle; the other half is knowing what results those changes have made.
 
-For some real-world examples of the difference this thinking can make, see [Focus on Time To Market First](focus-on-time-to-market-first).
+For real-world examples of the difference this thinking can make, see [Focus on Time To Market First](focus-on-time-to-market-first).
 
 # This sounds a lot like Agile
 
-You're not wrong - the Agile movement sprang out of an effort to apply Lean and Six Sigma principles to software development.  You can see the alignment when looking at what the [Agile Manifesto](https://agilemanifesto.org/) says is important.  It emphasizes respecting people in the process, delivering value to customers, and short cycles to respond to change.  You're probably familiar with a specific process that's intended to align with Agile - like Scrum, Kanban, or SAFe.  These processes are specific tactics that are intended to deliver on the strategies and principles of Lean - but they may not be in your organization.  That's why it's essential to understand the underlying principles to be sure you've picked the right set of tactics for you.
+You're not wrong - the Agile movement sprang from an effort to apply Lean and Six Sigma principles to software development.  You can see the alignment when looking at what the [Agile Manifesto](https://agilemanifesto.org/) says is important.  It emphasizes respecting people in the process, delivering Value to customers, and short cycles to respond to change.  You're probably familiar with a specific process intended to align with Agile - like Scrum, Kanban, or SAFe.  These processes are particular tactics that are intended to deliver on the strategies and principles of Lean - but they may not do so in your organization.  That's why it's essential to understand the underlying principles to be sure you've picked the right tactics for you.
 
-Scrum, perhaps the most well-known Agile software development process, emphasizes starting with User Stories, typically in the form "As a (user persona) I want to (perform a task) so that I (achieve a result)".  This aligns with the Lean definition of value - it's from the perspective of a user of the system, describes something they want to achieve and a method to achieve it.
+Scrum, perhaps the most well-known Agile software development process, emphasizes starting with User Stories, typically in the form "As a (user persona) I want to (perform a task) so that I (achieve a result)".  This aligns with the Lean definition of Value - from the perspective of a user of the system, describing something they want to achieve and a method to achieve it.
 
-The good news is if your team has already adopted an agile development process, adding an organizational focus on Lean will build on that investment and accelerate your whole company's growth.  Agile processes and their related tools give you a set of tactics that can minimize waste but you'll need to do the work to be sure your team is earnestly focusing on customer value and continuous improvement processes that extend to the customer.
+If your team has already adopted an agile development process, adding an organizational focus on Lean will build on that investment and accelerate your whole company's growth.  Agile processes and their related tools give you a set of tactics that can minimize Waste, but you'll need to do the work to be sure your team is earnestly focusing on customer value and continuous improvement processes that extend to the customer.
 
 # Learn More
 
