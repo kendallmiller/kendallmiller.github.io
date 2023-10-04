@@ -11,7 +11,7 @@ tags: [strategy, leadership]
 
 # It was hard but worth it!
 
-How many times have we all said that?  It's easy to assume that the more difficult something is, the more valuable it is.  We've grown up with this message - the more challenging the work, the sweeter the reward.  We've experienced it in our personal lives - exercising four times a week for months to lose weight, taking ever longer hikes so we can climb the trail up a mountain, skiing for years so we can safely fly down a double diamond trail.
+How many times have we all said that?  It's easy to assume that the more difficult something is, the more valuable it is.  We've grown up with this message - **the more challenging the work, the sweeter the reward**.  We've experienced it in our personal lives - exercising four times a week for months to lose weight, taking ever longer hikes so we can climb the trail up a mountain, skiing for years so we can safely fly down a double diamond trail.
 
 And we've been teaching ourselves a lie.
 
@@ -23,9 +23,19 @@ Let's say you want to hire someone to mow your lawn weekly.  What do you value?
 * **All the grass is cut**: Regardless of the equipment used, you want to be sure it's edged and trimmed so all the grass is the same height.
 * **Clippings are cleaned up**: You want all of the grass clippings cleaned off your driveway and the sidewalk; if you're bagging the clippings, you want the bags removed. In short - you want your property to look tidy.
 
-For any vendor that can achieve that, there's a price you'll pay for their services - a reflection of the value you place on the outcome.
+For any vendor that can achieve that, there's a price you'll pay for their services - a reflection of the value you place on the outcome.  You don't really care whether they can do it with one person or five, in 15 minutes or 90.  You might pay more for a higher quality of service or additional features, like weeding and fall cleanup, but the value you place on the core is constant regardless of how much work the vendor has to put in.
 
-Let's say you're a vendor: You could use a set of hand sheers, a push mower, or a large commercial mower.  Your choice dramatically affects the effort that you're putting into the job.  But, the customer's _already determined the value_[^excludingLuxury].  So - regardless of the effort you put in, the value of the equation is already fixed.
+Now lets turn it around and look at it from the perspective of the vendor: You could use a set of hand sheers, a push mower, or a large commercial mower.  Your choice dramatically affects the effort that you're putting into the job.  But, the customer's _already determined the value_[^excludingLuxury].  So - regardless of the effort you put in, the value of the equation is already fixed.
+
+# Avoiding the Effort Trap
+
+We use effort as a surrogate for value in decision making all of the time.  For example:
+
+* **Sunk Cost Fallacy**: We're reluctant to discard a solution we've put a lot of time into.
+* **Endowment Effect**: People tend to overvalue things they already possess or have invested effort into. This can make it challenging to objectively assess the true value of an asset or project.
+* **Overvaluing Perceived Hard Work**: People may overvalue an approach or solution simply because it required a lot of effort to develop. They assume that because something was challenging to create, it must be more valuable, even if it doesn't address the actual problem effectively or efficiently.  This also applys to over-valuing employees that put in the hours independently of the results they're generating.
+
+Each of these is rooted in our intuitive, emotional thinking patterns we fall back on every day.  To escape them, it's essential to maintain a clear and objective perspective when evaluating the value of something relative to the effort invested. This includes regularly reassessing projects, considering opportunity costs, and being willing to pivot or abandon efforts when the expected value is no longer aligned with the effort required. Additionally, fostering a culture of evidence-based decision-making and open-mindedness can help individuals and organizations make more rational choices when it comes to resource allocation and effort management.
 
 # Value isn't Cost Either
 
