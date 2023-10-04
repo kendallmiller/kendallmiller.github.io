@@ -120,7 +120,6 @@
   }
 }
 
-/*
 .hero__right {
   position: relative;
 
@@ -147,7 +146,7 @@
       content: none;
     }
   }
-}*/
+}
 
 .hero__image {
   position: relative;
@@ -156,6 +155,8 @@
   aspect-ratio: 1/1.2;
   border-radius: $global-radius;
   overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.02);
+  background-color: var(--background-alt-color);
   user-select: none;
 
   img {
