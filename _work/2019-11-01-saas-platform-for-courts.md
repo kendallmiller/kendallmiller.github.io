@@ -9,7 +9,7 @@ image: '/images/court-saas.jpg'
 image_caption: 'Photo by [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm)'
 ---
 
-I'm just completing my work with File & ServeXpress to ensure it's positioned as an enduringly competitive option
+I'm just completed my work with File & ServeXpress to ensure it's positioned as an enduringly competitive option
 for both public and private customers.
 
 Want to know more? Reach out to me and let's talk about it!

@@ -15,7 +15,7 @@ Enable modern applications throughout a distributed enterprise to leverage custo
 
 # The Solution
 
-I lead the team to rapidly prototype and then construct a system that used native capabilities of the core database technology of the ERP from a mirror to create a real-time series of events for every customer transaction and publish those events to a wide range of subscribers within the enterprise.  Along the way, we asssited the ERP hosting team with diagnosing the root cause of performance issues they had been experiencing and identified lasting, affordable solutions.
+I led the team to rapidly prototype and then construct a system that used native capabilities of the core database technology of the ERP from a mirror to create a real-time series of events for every customer transaction and publish those events to a wide range of subscribers within the enterprise.  Along the way, we assisted the ERP hosting team with diagnosing the root cause of performance issues they had been experiencing and identified lasting, affordable solutions.
 
 Our final solution enabled each division access to the data for their customers, hosted on their preferred platform (both self-hosted and cloud-hosted services), without creating inter-service dependencies that would slow innovation.
 
