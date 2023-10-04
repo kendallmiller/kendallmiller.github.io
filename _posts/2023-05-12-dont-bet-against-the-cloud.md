@@ -3,7 +3,9 @@ layout: post
 title: Don't Bet Against the Cloud
 description: Amazon and others seem to be shifting away from the cloud to self-hosted, owned hardware in data centers - what's going on?
 date: 2023-05-12
-last_modified_at: 2023-08-04
+last_modified_at: 2023-10-04
+image: /images/post3-01.png
+image_caption: A large pendulum wrecking ball swinging back from the cloud to self-hosting while a man looks on, concerned.
 tags: [Cloud, Management]
 ---
 
@@ -44,6 +46,8 @@ Let's take Microsoft SQL Server for example.  I've used it at every company I've
 With Azure SQL, it's built-in.  It's just there.  Want to take your 250GB database and get a copy from 20 minutes ago?  _Three clicks in a web UI_.  Oh, you want to go to last Tuesday at 8:12 AM?  Three clicks.
 
 If you've run an IT operations team, think about how many engineers it takes to keep all your application's infrastructure running securely and reliably.  That's a lot of staff - staff you also have to manage, retain, keep current, and consider when you want to adopt new technologies.
+
+![Be prepared to bulk up your staff to take on all this](/images/post3-02.png)
 
 When you go to a CSP and leverage their Platform-as-a-Service (PaaS) offerings, you're getting:
 

@@ -3,7 +3,9 @@ layout: post
 title: Pepsi Challenge Products
 description: Your product is attractive and inviting, but will users stay around long enough to drink the whole can?
 date: 2023-06-28
-last_modified_at: 2023-08-04
+last_modified_at: 2023-10-04
+image: /images/post2-01.png
+image_caption: Two people drinking, one from a small glass and one from a massive container which is overwhelming him.
 tags: [Products, Onboarding]
 ---
 
@@ -28,6 +30,8 @@ How will your users feel the 30th time they see a dialog enthusiastically pop up
 # Design for the Drink
 
 It takes fortitude for the design team to look beyond a great demo and instead focus on an experience that will improve with age.  If you want your customers to rave about your product when they've been using it for tens or even hundreds of hours, it needs to feel like a natural extension of their thinking.  Experienced users will even learn exactly what keystrokes it takes to get to each field, anticipate where they will be before they display, and have a visual scan to pick out the key data they need.
+
+![Tone down the visual noise but increase the information density to optimize for drink after drink](/images/post2-02.png)
 
 That tends towards:
 
