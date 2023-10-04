@@ -220,7 +220,7 @@
 .page-image {
   position: relative;
   transform: translate(0);
-  aspect-ratio: 1/1;
+  aspect-ratio: 16/9;
   border-radius: $global-radius;
   overflow: hidden;
   background-color: var(--background-alt-color);
@@ -235,7 +235,7 @@
     user-select: none;
   }
 
-  @supports not (aspect-ratio: 1/1) {
+  @supports not (aspect-ratio: 16/9) {
     padding-bottom: 100%;
   }
 }

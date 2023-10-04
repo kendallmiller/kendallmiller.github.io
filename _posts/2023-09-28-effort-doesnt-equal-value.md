@@ -4,8 +4,8 @@ title: Effort doesn't equal Value
 description: We naturally assume anything that's difficult must be worth it - but it turns out how much others value what we've accomplished is independent of how hard it was to achieve.
 date: 2023-09-28
 last_modified_at: 2023-09-28
-image: 
-image_caption: 
+image: /images/post1-01.png
+image_caption: Man using push mower looking at his neighbor using a riding mower with consternation
 tags: [strategy, leadership]
 ---
 
@@ -40,6 +40,8 @@ Each of these is rooted in our intuitive, emotional thinking patterns we fall ba
 # Value isn't Cost Either
 
 If you follow this train of logic to its conclusion, value isn't directly scaled by cost either.  Something cheap can be of poor value, and something expensive can be of great value.  I was lucky to start my career with John Deere, a company with a long-term focus on building better products at the top of the market.  Deere taught me that a product can be a better value than a competitive product even if it's more expensive - as long as it exceeds the customer's expectations.  The core idea is to build a product great enough to justify its price.
+
+![Product Value Pyramid](/images/post1-02.png)
 
 The focus on Premium Value drives a virtuous circle that great brands understand - like Apple, John Deere, and Disney:
 
