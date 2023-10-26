@@ -13,7 +13,7 @@ tags: [Cloud, Management]
 
 # Why the renewed interest in self-hosting?
 
-It was inevitable - after a decade of a steady shift in computing from self-hosted & colocation facilities to Cloud Service Providers (CSP) (think Amazon Web Services, Google Cloud Platform, and Microsoft Azure), the pendulum is starting to swing back.  You've probably read about [Amazon Prime Video reducing their costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) by shifting from serverless capabilities back to virtual machines. Or perhaps about how [37signals has backed out of AWS and GCP](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) to return to running their own infrastructure on their own hardware.  
+It was inevitable - after a decade of a steady shift in computing from self-hosted & colocation facilities to Cloud Service Providers (CSP) (think Amazon Web Services, Google Cloud Platform, and Microsoft Azure), the pendulum is starting to swing back.  You've probably read about [Amazon Prime Video reducing their costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) by shifting from serverless capabilities back to virtual machines. Or perhaps about how [37signals has backed out of AWS and GCP](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0), returning to running their own infrastructure on their own hardware.  
 
 Meanwhile, you've been watching your CSP spending increase year-on-year and wonder if you backed the right horse or are being played as a sucker.
 

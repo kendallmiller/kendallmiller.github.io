@@ -33,7 +33,7 @@ We use effort as a surrogate for value in decision making all of the time.  For 
 
 * **Sunk Cost Fallacy**: We're reluctant to discard a solution we've put a lot of time into.
 * **Endowment Effect**: People tend to overvalue things they already possess or have invested effort into. This can make it challenging to objectively assess the true value of an asset or project.
-* **Overvaluing Perceived Hard Work**: People may overvalue an approach or solution simply because it required a lot of effort to develop. They assume that because something was challenging to create, it must be more valuable, even if it doesn't address the actual problem effectively or efficiently.  This also applies to over-valuing employees that put in the hours independently of the results they're generating.
+* **Overvaluing Perceived Hard Work**: People may overvalue a solution simply because it requires a lot of effort to develop. They assume that because something was challenging to create, it must be more valuable, even if it doesn't address the actual problem effectively or efficiently.  This also applies to over-valuing employees who put in the hours independently of the results they're generating.
 
 Each of these is rooted in our intuitive, emotional thinking patterns we fall back on every day.  To escape them, it's essential to maintain a clear and objective perspective when evaluating the value of something relative to the effort invested. This includes regularly reassessing projects, considering opportunity costs, and being willing to pivot or abandon efforts when the expected value is no longer aligned with the effort required. Additionally, fostering a culture of evidence-based decision-making and open-mindedness can help individuals and organizations make more rational choices when it comes to resource allocation and effort management.
 
@@ -65,11 +65,11 @@ Suppose you're a small to medium player in your market (or a startup). In that c
 
 Targeting the Premium Value market may feel daunting - it raises the bar for your Minimum Viable Product (MVP) and can seem unobtainable.  But let's run through the alternatives:
 
-* If you target Cheap Value, all someone else has to do is match your price and they've nullified your advantage.  The established players can _easily_ do this - they've already made the significant investments to get to market and know their actual operation costs, you're guessing.
+* If you target Cheap Value, all someone else has to do is match your price, and they've nullified your advantage.  The established players can _easily_ do this - they've already made the significant investments to get to market and know their actual operation costs, you're guessing.
 * If you target the mainstream, you will have a challenge differentiating your product from the other mainstream products.  Your sales team will want to lower prices to stimulate sales; before you know it, you're a Cheap product.
 * With Premium Value, you've got to offer a higher-spec product for at least part of the market.  
 
-The Premium Value playbook has a track record of success - niches are often small enough not to warrant the big player's attention and will prioritize a narrow need and pay more for a product that satisfies it.
+The Premium Value playbook has a track record of success - niches are often small enough not to warrant the big player's attention.  Customers in nice markets will prioritize a narrow need and pay more for a product that satisfies it.
 
 # Learn More
 
