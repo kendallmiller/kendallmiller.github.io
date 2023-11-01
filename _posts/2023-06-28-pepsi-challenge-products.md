@@ -44,7 +44,7 @@ That tends towards:
 We've incorporated into our product design process asking the question - is this a sip or a drink feature?  It's clarified for us how to make design decisions on many tradeoffs:  
 
 | Problem | The Sip | The Drink |
-| --------|---------|-----------|
+| ------- | ------- | --------- |
 | Execute multi-step Task | Wizards: Present the task step-by-step with plenty of explanation. | Tabbed Process: Focus on collecting the data with minimal explanations. |
 | Create an Item | Textbox layout with each field laid out with explanations | Grid layout with top labels and a row per entity |
 | Confirm Completion of a Task | Show a modal dialog congratulating the user on a job well done and telling them what happens next | Display a small confirmation note in the UI and return them to their starting point to get on the next task |
