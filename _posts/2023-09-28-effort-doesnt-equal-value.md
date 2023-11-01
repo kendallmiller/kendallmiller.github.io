@@ -25,7 +25,7 @@ Let's say you want to hire someone to mow your lawn weekly.  What do you value?
 
 For any vendor that can achieve that, there's a price you'll pay for their services - a reflection of the value you place on the outcome.  You don't really care whether they can do it with one person or five, in 15 minutes or 90.  You might pay more for a higher quality of service or additional features, like weeding and fall cleanup, but the value you place on the core is constant regardless of how much work the vendor has to put in.
 
-Now lets turn it around and look at it from the perspective of the vendor: You could use a set of hand sheers, a push mower, or a large commercial mower.  Your choice dramatically affects the effort that you're putting into the job.  But, the customer's _already determined the value_[^excludingLuxury].  So - regardless of the effort you put in, the value of the equation is already fixed.
+Now let's turn it around and look at it from the perspective of the vendor: You could use a set of hand sheers, a push mower, or a large commercial mower.  Your choice dramatically affects the effort that you're putting into the job.  But, the customer's _already determined the value_[^excludingLuxury].  So - regardless of the effort you put in, the value of the equation is already fixed.
 
 # Avoiding the Effort Trap
 
@@ -33,7 +33,7 @@ We use effort as a surrogate for value in decision making all of the time.  For 
 
 * **Sunk Cost Fallacy**: We're reluctant to discard a solution we've put a lot of time into.
 * **Endowment Effect**: People tend to overvalue things they already possess or have invested effort into. This can make it challenging to objectively assess the true value of an asset or project.
-* **Overvaluing Perceived Hard Work**: People may overvalue an approach or solution simply because it required a lot of effort to develop. They assume that because something was challenging to create, it must be more valuable, even if it doesn't address the actual problem effectively or efficiently.  This also applys to over-valuing employees that put in the hours independently of the results they're generating.
+* **Overvaluing Perceived Hard Work**: People may overvalue a solution simply because it requires a lot of effort to develop. They assume that because something was challenging to create, it must be more valuable, even if it doesn't address the actual problem effectively or efficiently.  This also applies to over-valuing employees who put in the hours independently of the results they're generating.
 
 Each of these is rooted in our intuitive, emotional thinking patterns we fall back on every day.  To escape them, it's essential to maintain a clear and objective perspective when evaluating the value of something relative to the effort invested. This includes regularly reassessing projects, considering opportunity costs, and being willing to pivot or abandon efforts when the expected value is no longer aligned with the effort required. Additionally, fostering a culture of evidence-based decision-making and open-mindedness can help individuals and organizations make more rational choices when it comes to resource allocation and effort management.
 
@@ -51,7 +51,7 @@ The focus on Premium Value drives a virtuous circle that great brands understand
 
 This cycle works both ways - if you start by aiming at the _Cheap Value_ market, you'll have low margins and be known as the low-cost player.  That limits what you can invest in your products, making it difficult to expand into new products or increase your margins. Your only path to revenue growth is volume.
 
-There is a limit to value - for a given product, there's just no rational value play above a certain point.  This is the territory of luxury goods and luxury brands.  If you're in that space you'll have entirely different pricing considerations.
+There is a limit to value - for a given product, there's just no rational value play above a certain point.  This is the territory of luxury goods and luxury brands.  If you're in that space, you'll have entirely different pricing considerations.
 
 # Aim for Premium Value
 
@@ -65,11 +65,11 @@ Suppose you're a small to medium player in your market (or a startup). In that c
 
 Targeting the Premium Value market may feel daunting - it raises the bar for your Minimum Viable Product (MVP) and can seem unobtainable.  But let's run through the alternatives:
 
-* If you target Cheap Value, all someone else has to do is match your price and they've nullified your advantage.  The established players can _easily_ do this - they've already made the significant investments to get to market and know their actual operation costs, you're guessing.
+* If you target Cheap Value, all someone else has to do is match your price, and they've nullified your advantage.  The established players can _easily_ do this - they've already made the significant investments to get to market and know their actual operation costs, you're guessing.
 * If you target the mainstream, you will have a challenge differentiating your product from the other mainstream products.  Your sales team will want to lower prices to stimulate sales; before you know it, you're a Cheap product.
 * With Premium Value, you've got to offer a higher-spec product for at least part of the market.  
 
-The Premium Value playbook has a track record of success - niches are often small enough not to warrant the big player's attention and will prioritize a narrow need and pay more for a product that satisfies it.
+The Premium Value playbook has a track record of success - niches are often small enough not to warrant the big player's attention.  Customers in nice markets will prioritize a narrow need and pay more for a product that satisfies it.
 
 # Learn More
 
