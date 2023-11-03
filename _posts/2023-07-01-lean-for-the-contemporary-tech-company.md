@@ -34,7 +34,7 @@ When looking at proposed enhancements, make sure the team is clearly articulatin
 * Sales can figure out how they'll communicate the Value of the new capabilities when available.
 * Leadership can estimate how much revenue can be expected and when.
 
-To put this to work with your team, see [Maximizing Value in Product Decisions](using-lean-value-to-make-great-product-decisions).
+To put this to work with your team, see [Using Lean Value to Make Great Product Decisions](using-lean-value-to-make-great-product-decisions).
 
 ## Eliminating Waste
 

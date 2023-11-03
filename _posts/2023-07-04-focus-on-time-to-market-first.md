@@ -29,7 +29,7 @@ We'd had a lot of customer conversations - but those were with customers that al
 
 Once we implemented clear views to communicate when _no news is good news_ we started getting customers that bought us just for our Monitoring capabilities.  If we'd done a shallower initial implementation and gotten it in the hands of customers earlier we'd have brought forward a lot of revenue.
 
-## Example: Government Contracts 
+## Example: Government Contracts
 
 One company I worked with sold primarily to government customers under subscription or usage-based contracts.  Government customers are notorious for being slow to finalize contracts, sign off on systems, and ultimately go live.  But, since the contracts had long terms typically dating from the go-live point this wasn't often seen as an issue because our company would get the same revenue _eventually_.  It wasn't perceived there was much advantage to pushing down the latency at each stage to get the money sooner as the total contract value was locked and it could jeopardize our relationship with our government customer.  Our Private Equity ownership had extensive government experience and was used to the routine delays associated with government contracts and didn't push us to speed things up either.
 

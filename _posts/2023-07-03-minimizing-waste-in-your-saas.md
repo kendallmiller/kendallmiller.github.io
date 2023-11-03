@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimizing waste in your SaaS company
+title: Minimizing waste in your SaaS Product
 description: See how Lean principles can deliver more for your customers and make your team happier too by building on the practices you're already adopting.
 date: 2023-07-03
 last_modified_at: 2023-10-01
