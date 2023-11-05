@@ -29,6 +29,10 @@ collections:
   work:
     output: true
     permalink: /work/:slug
+    order:
+      - fileandservexpress.md
+      - gibraltar.md
+      - benelogic.md
 
 # Pages Path
 defaults:

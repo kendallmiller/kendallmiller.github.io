@@ -2,8 +2,8 @@
 layout: post
 title: Effort doesn't equal Value
 description: We naturally assume anything that's difficult must be worth it - but it turns out how much others value what we've accomplished is independent of how hard it was to achieve.
-date: 2023-09-28
-last_modified_at: 2023-09-28
+date: 2023-11-07
+last_modified_at: 2023-11-04
 image: /images/post1-01.png
 image_caption: Man using push mower looking at his neighbor using a riding mower with consternation
 tags: [strategy, leadership]

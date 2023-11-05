@@ -28,7 +28,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Kendall Miller
-  author__bio: An experienced CTO / COO specializing in Software-as-a-Service IT transformation and startups.
+  author__bio: An experienced, hands-on CTO / COO specializing in Software-as-a-Service IT transformation and startups.
   author__avatar: '/images/headshot-960.png'
 
 social:
@@ -45,7 +45,7 @@ social:
 hero:
   enable: true
   hero__title: Let's make it happen!
-  hero__description: I've built a career solving hard problems for technology companies.  As a seasoned CTO/COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors.
+  hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors.
   hero__image: "/images/hero1.png"
 
 
