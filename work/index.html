@@ -17,7 +17,9 @@ description: I've worked with a range of SaaS startups and companies looking to 
 
 <div class="work-page container animate">
   <div class="row">
-    {% assign works = site.work | sort: 'date' | reverse %}
+    {% assign executive_work = site.work | where: "category", "Executive" | sort: 'date' | reverse %}
+    {% assign non_executive_work = site.work | where_exp: "item", "item.category != 'Executive'" | sort: 'date' | reverse %}    
+    {% assign works = executive_work | concat: non_executive_work %}
     {% for work in works %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
