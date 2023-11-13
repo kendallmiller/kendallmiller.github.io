@@ -1,10 +1,11 @@
 ---
-title: Critical Application Consultancy
-description: Create a software consultancy focused on solving hard performance, availability, and scalability problems for organizations.
+title: IT SaaS Startup
+description: Create a software company providing products and services for solving hard performance, availability, and scalability problems.
 category: Executive
 date: 2008-01-01
 last_modified_at: 2023-08-20
-role: Chief Technology Officer
+role: Founder
+image: '/images/gibraltar-logo-700x700.png'
 ---
 
 I partnered with a trusted consultant I had worked with on previous engagements to create a new software consultancy (Gibraltar Software) focused on solving difficult application problems for customers, typically in performance-critical aspects of their platforms.  
