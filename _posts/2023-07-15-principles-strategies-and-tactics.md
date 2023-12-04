@@ -3,8 +3,9 @@ layout: post
 title: Principles, Strategies, and Tactics
 description: Know when to let best practices and good ideas go by understanding the difference between principles, strategies, and tactics.
 date: 2023-07-15
-last_modified_at: 2023-07-29
-image_caption: 'Photo by [Ali Pazani](https://unsplash.com/photos/I_S774RnI3g) on [Unsplash](https://unsplash.com/)'
+last_modified_at: 2023-12-04
+image: /images/post9-01.png
+image_caption: Building housing in three different time periods with different methods, demonstrating different tactics to meet the same goals.
 tags: [Products, Strategy]
 ---
 

@@ -3,7 +3,9 @@ layout: post
 title: Focus your team on time to market
 description: See how going all-in on shipping features fast is an under-used super power that boosts revenue and drives growth for your business.
 date: 2023-07-04
-last_modified_at: 2023-08-12
+last_modified_at: 2023-12-04
+image: /images/post8-01.png
+image_caption: Four people carrying a product in a race over the finish line, labeled Product Launch
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

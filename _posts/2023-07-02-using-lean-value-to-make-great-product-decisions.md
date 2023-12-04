@@ -3,7 +3,8 @@ layout: post
 title: Using Lean Value to Make Great Product Decisions
 description: Focusing your product team on customer value creates winning products faster.  Here's how to get started.
 date: 2023-07-02
-last_modified_at: 2023-10-01
+last_modified_at: 2023-12-04
+image: /images/post7-01.png
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

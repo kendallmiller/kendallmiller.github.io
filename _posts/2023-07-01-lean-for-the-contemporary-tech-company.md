@@ -3,7 +3,9 @@ layout: post
 title: Lean and the contemporary tech company
 description: Explore the transformative potential of Lean for your SaaS and learn how to maximize customer value, eliminate waste, and implement continuous improvement strategies to fuel your success.
 date: 2023-07-01
-last_modified_at: 2023-10-01
+last_modified_at: 2023-12-04
+image: /images/post4-01.png
+image_caption: An assembly line building cars compared to a value chain creating software.
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

@@ -4,6 +4,8 @@ title: Minimizing waste in your SaaS Product
 description: See how Lean principles can deliver more for your customers and make your team happier too by building on the practices you're already adopting.
 date: 2023-07-03
 last_modified_at: 2023-10-01
+image: /images/post6-01.png
+image_caption: Three people in a meeting room vigorously discussing a product, with an empty chair where the customer should be.
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
 ---

@@ -3,7 +3,9 @@ layout: post
 title: Picking Ideas that Win
 description: When your team has a new product idea, how do you decide if it's worth pursuing?  You already know the tropes about ideas being worthless and execution priceless, and that focus wins.  So, when do you take on something new?
 date: 2023-07-25
-last_modified_at: 2023-08-02
+last_modified_at: 2023-12-04
+image: /images/post5-01.png
+image_caption: A person deciding which rocket to use between three rockets, each shaped differently.
 tags: [Strategy, Product Management]
 ---
 
