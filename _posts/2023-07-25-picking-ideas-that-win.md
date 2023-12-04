@@ -15,9 +15,9 @@ I've worked with a lot of startups - ones I've been directly involved in and oth
 
 The three questions your team should have a refined answer to are:
 
-1. **What unmet need of an existing market are we satisfying?**:  Startups rarely succeed when creating new markets, so instead you want a clear part of an existing market that has an unmet need you can satisfy.
-2. **Who will pay for this system, and what are they used to paying?**: You need a clearly defined customer and an understanding of what they typically pay for services.
-3. **Why are we uniquely positioned to succeed?**: Even if your idea is great, if you don't have a key reason for folks to pick you, they'll pick someone else.
+1. **What unmet need of an existing market are we satisfying?**  Startups rarely succeed when creating new markets, so instead you want a clear part of an existing market that has an unmet need you can satisfy.
+2. **Who will pay for this system, and what are they used to paying?** You need a clearly defined customer and an understanding of what they typically pay for services.
+3. **Why are we uniquely positioned to succeed?** Even if your idea is great if you don't have a key reason for folks to pick you, they'll pick someone else.
 
 # What unmet need are we satisfying?
 
@@ -25,14 +25,14 @@ It is far safer to create an alternate product in an existing market than to att
 
 To define your market, be as specific as you can about:
 
-1. **Who will get value from the product?**: The people who will benefit from what your product uniquely offers.
-2. **Why do existing solutions not entirely satisfy them?**: The unmet need and what advantage does the user get from it being satisfied.
+1. **Who will get value from the product?** The people who will benefit from what your product uniquely offers.
+2. **Why do existing solutions not entirely satisfy them?** The unmet need and what advantage does the user get from it being satisfied.
 
 Your team has probably already defined a lot of this as part of their initial pitch, but double-check that they've hit all these points.
 
 ## Is there a market?
 
-When I've looked at product ideas it's always a warning sign if I can't find two successful players already in the space.  Consider the likely reasons that no one is serving the market you're targetting: Either you're the first to come up with this idea or there's a reason you haven't figured out yet why the market isn't there. Hint: it's never the first one.  For example, there might be hidden regulatory reasons or other barriers to adoption or cost that you're not seeing.
+When I've looked at product ideas, it's always a warning sign if I can't find two successful players already in the space.  Consider the likely reasons that no one is serving the market you're targeting: Either you're the first to come up with this idea, or there's a reason you haven't figured out yet why the market isn't there. Hint: it's never the first one.  For example, there might be hidden regulatory reasons or other barriers to adoption or cost that you're not seeing.
 
 Building out into a non-existent market is pure waste: You'll burn your team's time, your investor's funds, and build a passion for something that will not reward you.  Better to cut bait early.
 
@@ -64,13 +64,13 @@ As part of identifying the market your product fits into, you should identify th
 
 ### Why not go low?
 
-If you're thinking of going with a price well below the existing market you are stacking the deck against yourself.  First, people use _price as a surrogate for quality_ - so if you're cheaper, you're doing less or they're getting less.  Second, it's trivial for an established player to wipe you out of the market: they just need to come out with a cheaper option.  At best, you'll be committing yourself to take risks others in the market won't so you can keep costs low - and operating at low margins where there's not a lot of room for mistakes.
+If you're thinking of going with a price well below the existing market, you are stacking the deck against yourself.  First, people use _price as a surrogate for quality_ - so if you're cheaper, you're doing less or they're getting less.  Second, it's trivial for an established player to wipe you out of the market: they just need to come out with a cheaper option.  At best, you'll be committing yourself to take risks others in the market won't so you can keep costs low - and operating at low margins where there's not a lot of room for mistakes.
 
 Finally, think about the kind of customers that will go with you because you're the cheapest: These folks are placing cost above all else.  That often means you may have collections problems with them, they are going to be resistant to upsells, and the feedback they will give you won't be about creating more value but instead how to stay cheap.
 
 # Why are you uniquely going to succeed?
 
-Even if you have a great answer to the other questions, if you don't have a reason that your team is uniquely positioned to win customers you probably should pursue another idea.  The reason also has to be something about your organization, people, or brand - not that you're good at developing or creating products.  Why? Because _competent execution is available to anyone with a bank account_.  If you've got everything else in place you can always pay someone to execute for you.  
+Even if you have a great answer to the other questions, if you don't have a reason that your team is uniquely positioned to win customers, you probably should pursue another idea.  The reason also has to be something about your organization, people, or brand - not that you're good at developing or creating products.  Why? Because _competent execution is available to anyone with a bank account_.  If you've got everything else in place, you can always pay someone to execute for you.  
 
 A rough rule of thumb when creating a new product is that 20% of your cost will be in the engineering of the product itself.  The rest goes into sales, marketing, and everything else it takes to get customers to adopt and pay for your product.  So, even if you outsource development at three times the cost that isn't as bad as it sounds, particularly since the main engineering costs come before the wave of marketing and sales costs.
 
@@ -98,9 +98,9 @@ If you can't work out why your team is uniquely positioned to succeed, you'll ne
 
 Finally, if you don't have a satisfying answer to "why you", the idea probably isn't a good fit.  That's great news - you've eliminated an idea before you spent a pile of time & treasure on it.  Don't worry, another idea will be along soon.
 
-# Opt out early
+# Opt-Out Early
 
-Product ideas should be treated like _strong opinions, weakly held_ - While your team is investigating them you want to let folks go all in on the possibilities.  Once the idea coalesces into something you might execute on then it's time to justify if it's worth more investment.  Most ideas aren't - so we need to be able to let them go and move on to the next idea.  Your team's time is finite: You want to find the best idea you think you can execute, not the first idea that might be viable.  The longer your team invests in the idea, the harder it is to let it go so emphasize opting out early.
+Product ideas should be treated like _strong opinions, weakly held_ - While your team investigates them, you want to let folks go all in on the possibilities.  Once the idea coalesces into something you might execute, it's time to justify if it's worth more investment.  Most ideas aren't - so we need to be able to let them go and move on to the next idea.  Your team's time is finite: You want to find the best idea you think you can execute, not the first idea that might be viable.  The longer your team invests in the idea, the harder it is to let it go, so emphasize opting out early.
 
 Discussions around product ideas must live in a "no-fault" culture: Your team is on one side, and the proposed idea is on the other.  Think about how you communicate so you don't end up with one person passionately defending the idea and others picking at _them_.  It's the idea that loses, not the individual or the team.
 
