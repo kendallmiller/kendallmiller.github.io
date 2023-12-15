@@ -3,7 +3,7 @@ layout: post
 title: Picking Ideas that Win
 description: When your team has a new product idea, how do you decide if it's worth pursuing?  You already know the tropes about ideas being worthless and execution priceless, and that focus wins.  So, when do you take on something new?
 date: 2023-07-25
-last_modified_at: 2023-12-04
+last_modified_at: 2023-12-14
 image: /images/post5-01.png
 image_caption: A person deciding which rocket to use between three rockets, each shaped differently.
 tags: [Strategy, Product Management]
@@ -43,6 +43,8 @@ To have an ongoing business, you need paying customers.  This is the hardest par
 ## Get Close to the Money
 
 The shorter the path from your product's benefits to your customer's money, the easier it is to sell them on it.  This is the journey your marketing and sales team is going to have to walk - anything you can do to simplify it will improve your time to revenue.  In general, this means targeting users that are used to paying for products and services.  After all, if they don't have a budget or ability to buy your product then there isn't a market there, even if they would willingly adopt it.
+
+![The closer your costs can be associated with your customer's revenue, the easier it is to get them to buy](/images/post5-02.png)
 
 If your product is intended to generate value through cost savings - like reducing time, staffing requirements, etc - it's often a much harder pitch than if it directly helps your customer create more revenue.  Every business knows that cost savings are difficult to track and often don't materialize.  Even if adopting your product really will save a customer hours a week, unless they can put those hours to profitable use (or not have to pay staff for that time anyway) they won't realize any savings.
 

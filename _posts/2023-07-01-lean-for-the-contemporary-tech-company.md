@@ -3,7 +3,7 @@ layout: post
 title: Lean and the contemporary tech company
 description: Explore the transformative potential of Lean for your SaaS and learn how to maximize customer value, eliminate waste, and implement continuous improvement strategies to fuel your success.
 date: 2023-07-01
-last_modified_at: 2023-12-04
+last_modified_at: 2023-12-14
 image: /images/post4-01.png
 image_caption: An assembly line building cars compared to a value chain creating software.
 series: Lean and the Contemporary Tech Company
@@ -43,6 +43,8 @@ To put this to work with your team, see [Using Lean Value to Make Great Product 
 Waste is anything you or your customers have to do that does not directly produce Value.  Ideally, every action your team takes adds Value to your product or service.  In practice, this isn't feasible - it's inevitably necessary to take on some non-value activities to run your business.  But, we want to always be working to minimize this effort.
 
 For example, let's say you purchase a ticket to fly from Baltimore, MD to Phoenix, AZ.  You'll likely end up going through a stopover airport - like Dallas, TX.  This ticket might be significantly cheaper than the single direct flight from Baltimore to Phoenix.  Landing in Dallas has no additional value[^1] - you want to go from Baltimore to Phoenix.  But, you'd take that option because it's a cheaper ticket.  It's cheaper for the airline because they can run flights consistently full by having fewer flights, and flying through their hubs facilitates that.  This is a good example of _Type 1 Waste_ - it's necessary but doesn't add Value to the product or service.
+
+![The route with the least waste may not be the lowest cost](/images/post4-02.png)
 
 Product teams often struggle with the concept that work delivered to internal parties isn't included as Value.  For example, activities like creating mockups, internal meetings, testing, etc., consume a great deal of the team's resources but don't generate Value from a Lean perspective.  They're worth doing when they take less effort than the alternative.  Doing mockups first, then full designs, is predicated on the assumption that it will be faster or cheaper than building the whole app and making something that can't work.  If the impact of changing the app were low enough, it'd be better just to build it and see if it delivers
 

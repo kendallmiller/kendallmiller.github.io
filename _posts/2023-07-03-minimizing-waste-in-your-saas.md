@@ -3,7 +3,7 @@ layout: post
 title: Minimizing waste in your SaaS Product
 description: See how Lean principles can deliver more for your customers and make your team happier too by building on the practices you're already adopting.
 date: 2023-07-03
-last_modified_at: 2023-10-01
+last_modified_at: 2023-12-14
 image: /images/post6-01.png
 image_caption: Three people in a meeting room vigorously discussing a product, with an empty chair where the customer should be.
 series: Lean and the Contemporary Tech Company
@@ -47,6 +47,8 @@ From the moment you last confirm a product change with your customers until you 
 
 In an ideal world, your team continually delivers small increments of value to your customers and can measure (efficiently) that it's producing the result you expected.  This is the driving goal behind Continuous Delivery - realizing the value of your work as quickly as possible and getting feedback so if you go in the wrong direction, you don't go very far.
 
+[Fast customer feedback product cycle](/images/post6-02.png)
+
 When I work with teams, evangelizing Continuous Delivery (CI/CD) isn't hard - it's become a staple of modern Agile development teams.  But, they've rarely given a thought to gathering customer feedback to **ensure the changes they quickly shipped deliver value and delight users**.  
 
 To avoid this,  When the team is evaluating what to take on next, I ask questions like _"How would we know if this works?  What change would we see?"_  My goal is to get the team to expand their concept of what they're delivering to include closing the circle with the customer - not just building the feature or deploying it, but measuring its impact.  If we can't clearly define any change a customer would see and experience, that's a red flag that the feature may not be that useful after all - and it may be Waste in disguise (more on that below).
@@ -68,13 +70,13 @@ From here, pick the action to take as a team based on both what theory (or theor
 
 ### Don't Outrun Your Data
 
-It is very tempting when you're looking at a theory for what's going on to keep expanding to further actions:  If the theory is true, then we should do this action, and if that works, then we should do these three follow-up actions.  Perhaps we should pivot the whole UI from being laid out in a long page flow to a tabbed flow, or from a tabbed flow to a long page flow, on and on. 
+It is very tempting when you're looking at a theory for what's going on to keep expanding to further actions:  If the theory is true, then we should do this action, and if that works, then we should do these three follow-up actions.  Perhaps we should pivot the whole UI from being laid out in a long page flow to a tabbed flow, or from a tabbed flow to a long page flow, on and on.
 
 The farther you go down this path, the less your thinking is supported by data and the riskier your journey is.  Let's say you have 80% confidence in each decision.  By the time you've gone four decisions in, you're at 40%.  Those are poor odds.  
 
 > Don't outrun your data - pick an affordable action, build and deploy it, and get more data.  
 
-## Prioritize Building 
+## Prioritize Building
 
 There are a wealth of activities your team can do that work in the direction of solving a problem but aren't part of the final work product.  For example:
 

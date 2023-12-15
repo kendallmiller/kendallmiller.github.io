@@ -3,7 +3,7 @@ layout: post
 title: Using Lean Value to Make Great Product Decisions
 description: Focusing your product team on customer value creates winning products faster.  Here's how to get started.
 date: 2023-07-02
-last_modified_at: 2023-12-04
+last_modified_at: 2023-12-14
 image: /images/post7-01.png
 series: Lean and the Contemporary Tech Company
 tags: [Lean, Management, Products]
@@ -43,6 +43,8 @@ Identifying customer Value requires a deep understanding of how your product fit
 If you have an existing application that's been in use for over six months, your support team will have data on your users' most common questions.  Depending on the sophistication of your internal processes, it may not be formalized in an electronic tracking system, but don't let that stop you.  I recommend interviewing your support team to identify the core challenges customers are reporting and hear from them about the impact they're having.
 
 In my experience, **users are good at identifying problems but not providing solutions**.  When combing through the data you get from your support team, you're likely to see customer value opportunities dressed up as solutions - a specific change request like _"Make the submit button larger."_  When mining your data for value, work backward from the requested change to the problem behind the change.  What issue does the user think is solved by making the submit button larger? It could be a redundant step they missed, placed in an unusual part of the screen, or something else.  
+
+![Routinely comb through support data to find enhancements](/images/post7-02.png)
 
 Each of the problems you can mine from your customer data is significant because it is worth enough to the user for them to take a break in their work and articulate it to your team.  Effectively, they've pre-vetted these problems to be something they expect you to solve, and it's important to solve.  This should immediately elevate these items above the internally generated shortcomings of the system or ideas you're mining from telemetry.
 
