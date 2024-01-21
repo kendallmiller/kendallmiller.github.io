@@ -47,7 +47,7 @@ From the moment you last confirm a product change with your customers until you 
 
 In an ideal world, your team continually delivers small increments of value to your customers and can measure (efficiently) that it's producing the result you expected.  This is the driving goal behind Continuous Delivery - realizing the value of your work as quickly as possible and getting feedback so if you go in the wrong direction, you don't go very far.
 
-[Fast customer feedback product cycle](/images/post6-02.png)
+![Fast customer feedback product cycle](/images/post6-02.png)
 
 When I work with teams, evangelizing Continuous Delivery (CI/CD) isn't hard - it's become a staple of modern Agile development teams.  But, they've rarely given a thought to gathering customer feedback to **ensure the changes they quickly shipped deliver value and delight users**.  
 
