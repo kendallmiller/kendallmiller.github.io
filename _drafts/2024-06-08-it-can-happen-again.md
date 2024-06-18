@@ -35,8 +35,24 @@ For most systems we're willing to accept the cost of two servers - the improveme
 
 Cost isn't just direct expenses like paying for a redundant system or additional staff.  For example, you may look at a problem and decide that if only another department had reviewed the change before it went live then the incident could have been avoided.  But, each step you add in a process adds weight to your organization that slows you down.  When you come into a new company and see that the accounting department has to sign off on every new version of your system, ten to one that step was put in there because of an incident years ago.
 
-# What was the Cost of the Incident?
+# What was the true cost of the Incident?
 
 When an incident happens, we tend to overstate the impact - we talk of the worst case scenario and act as if that came to pass.  Customers leaving in droves, refunds granted, lawsuits filed.  When the dust settles and little if any of this is done, it's often credited to the quick actions of your Customer Success team, leadership, or luck - _we dodged a bullet this time._
 
-It's also easy to see how you can get away with minimal impact from one incident but a series of incidents could be unrecoverable.  
+To help teams gauge cost in a practical way, I encourage them to think of the impact of an incident on a scale of:
+
+1. Lawsuits (Worst Case): Are we likely to be sued for this problem?
+2. Penalties and Refunds: Will we have to pay cash to customers or partners?
+3. Deferred Revenue: Will we miss out on revenue later?
+4. Executive Apology: A C-Level executive will need to personally make it right.
+5. Just Fix It: Address the impacted customers and make it right.
+
+I've never had anything rise above #3 above, most companies don't.  But, it's good to give perspective: An emergency feels like an emergency - so putting the consequence in context can help focus on what needs to be done without over-reacting.
+
+Conversely, while you can get away with minimal impact from one incident but a series of incidents could be unrecoverable.  The withdrawal from your credibility account with your customers is likely the most expensive aspect of the outage.
+
+# Learn, Improve, and Move On
+
+As soon as the dust settles, it's essential to do an incident review - focused on learning as much as you can about how the whole organization handled it.  You may need to adjust some assumptions around risk, but remember your systems were good enough to get you to where you are - and change has its own cost and risk.  There will be a lot of possible improvements you can make, but in the end they need to compete with everything else the company could take on.
+
+The smaller you are, the more likely the answer is this is a reasonable risk and we should continue to run it.
