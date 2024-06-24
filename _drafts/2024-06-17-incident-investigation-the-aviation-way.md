@@ -15,7 +15,7 @@ The key components of an incident review are:
 
 # Establish the Facts
 
-As early as feasible during an incident, take steps to ensure you're capturing events dispassionately and accurately.  This is usually best done with someone not directly involved in the incident, but with acce ss to the people involved.  Leadership should request folks keep contemporaneous notes as they go as well to provide once the incident has been resolved.  It's important to emphasize that this is not about blame or shame, it's to establish a baseline of facts so we can all learn.
+As early as feasible during an incident, take steps to ensure you're capturing events dispassionately and accurately.  This is usually best done with someone not directly involved in the incident, but with access to the people involved.  Leadership should request folks keep contemporaneous notes as they go as well to provide once the incident has been resolved.  It's important to emphasize that this is not about blame or shame, it's to establish a baseline of facts so we can all learn.
 
 It takes practice to faithfully capture what happened without judgement - we're used to combining the two as a shorthand to speed communication.  It's worth practicing this discussion ahead of time as part of establishing a no-blame culture.  For example:
 
