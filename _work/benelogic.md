@@ -2,7 +2,7 @@
 title: Multitenant Benefits Administration SaaS
 description: Data-driven multitenant benefits administration SaaS
 category: Executive
-date: 2001-04-01
+date: 2001-01-01
 last_modified_at: 2023-11-04
 role: Chief Information Officer
 image: '/images/benefits-admin-saas.jpg'
@@ -13,14 +13,14 @@ image_caption: 'Photo by [National Cancer Institute](https://unsplash.com/@nci)'
 
 # IT Operations
 
-Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing, and facilities. Established success criteria for processes and procedures and facilitated their development. 
+Recruited and directed the IT team that designed and maintained the hosting infrastructure for Benelogic with up to 60 physical servers, and extended SAN with several storage arrays and fully redundant high-performance network, firewalls, hardware load balancing, and facilities. Established success criteria for processes and procedures and facilitated their development.
 
 # Product Development
 
 Recruited and directed the product development team. Oversaw outsourcing partners that designed and maintained the SaaS application provided to Benelogic customers. Delivered on average four updates every year, peaking at over 1.5 million lines of code, 220 SQL tables, and a state-of-the-art SOA business transaction layer among other features.
 
 * Developed a specialized version of the Benelogic core product to support Wal-Mart, supporting the benefits of over 1.3 million employees enrolling over 14 days, a record in the industry at that time.
-* Established success criteria for processes and procedures and worked with the team members to continuously improve configurations management and development processes to ensure the teams delivered the best results consistently over time. 
+* Established success criteria for processes and procedures and worked with the team members to continuously improve configurations management and development processes to ensure the teams delivered the best results consistently over time.
 
 # Operational Support 
 
