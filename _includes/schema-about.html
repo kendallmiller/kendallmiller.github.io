@@ -5,7 +5,7 @@
   "mainEntity": {
     "@context": "https://schema.org/",         
     "@type": "Person",         
-    "@id": "#Person",
+    "@id": "KendallWMiller",
     "url": "https://KendallWMiller.com/",          
     "name": "Kendall Miller",
     "alternateName": "Kendall W. Miller",
@@ -21,8 +21,8 @@
     ],
     "jobTitle": "CxO",
     "worksFor": {
-    "@type": "Organization",
-    "name": "Gibraltar Software, Inc."
+      "@type": "Organization",
+      "name": "Gibraltar Software, Inc."
     },
     "address": {
       "@type": "PostalAddress",
@@ -39,7 +39,17 @@
   "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
   "author": {
     "@type": "Person",
-    "name": "Kendall Miller"
-  }
+    "name": "Kendall Miller",
+    "url": "https://kendallmiller.com/about/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Kendall Miller",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kendallmiller.com/images/android-chrome-512x512.png"
+    }
+  },
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}"
 }
  </script>
