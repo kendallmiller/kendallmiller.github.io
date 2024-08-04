@@ -16,11 +16,9 @@
   <link rel="manifest" href="/site.webmanifest">
 
   <!-- JSON schema support -->
-  {% if page.include_personschema %}
-    {% include schema-person.html %}
-  {% endif %}
-
-  {% if page.layout == "post" %}
+  {% if page.url == "/about/" %}
+    {% include schema-about.html %}
+  {% elsif page.layout == "post" %}
     {% include schema-post.html %}
   {% endif %}
 
