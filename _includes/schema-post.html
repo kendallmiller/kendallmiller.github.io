@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "headline": "{{ page.title }}",
+      "image": [
+        "{{ page.image | absolute_url }}"
+      ],
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+      "author": {
+        "@type": "Person",
+        "name": "Kendall Miller"
+      },
+      "publisher": {
+        "@type": "Person",
+        "name": "Kendall Miller"
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kendallmiller.com/images/android-chrome-512x512.png"
+        }
+      },
+      "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}"
+    }
+    </script>

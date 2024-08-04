@@ -15,6 +15,15 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 
+  <!-- JSON schema support -->
+  {% if page.include_personschema %}
+    {% include schema-person.html %}
+  {% endif %}
+
+  {% if page.layout == "post" %}
+    {% include schema-post.html %}
+  {% endif %}
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.title }}{% else %}{{ page.title }} – {{ site.data.settings.title }}{% endif %}">

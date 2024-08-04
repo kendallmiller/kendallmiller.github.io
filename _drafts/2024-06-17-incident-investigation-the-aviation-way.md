@@ -8,10 +8,18 @@ tags: [Management]
 
 The key components of an incident review are:
 
-1. Statement of Facts: What exactly happened, when, by whom without commentary or opinion.
-2. Analysis: Reviewing the facts to assess how the processes and systems performed through the incident.
-3. Issues: The problems identified during analysis.
-4. Recommendations: Specific changes to processes and systems the team is recommending to leadership.
+1. **Statement of Facts**: What exactly happened, when, by whom without commentary or opinion.
+2. **Analysis**: Reviewing the facts to assess how the processes and systems performed through the incident.
+3. **Issues**: The problems identified during analysis.
+4. **Recommendations**: Specific changes to processes and systems the team is recommending to leadership.
+
+# Iterative Process
+
+While the stages of the incident review do need to happen in order, research has shown you should execute the first three concurrently with information and feedback flowing from stage to stage.  Facts lead to analysis lead to issues which lead back to gathering more facts.
+
+For example, once you have a basic understanding of the facts it's worth analyzing what's known to both identify initial issues as well as realizing what's missing in the facts that needs to be augmented.
+
+It's worth holding back on specific recommendations until the iterative process has run long enough that new facts aren't coming to light and the set of issues has largely stabilized.  Action-oriented teams will want to jump to recommendations virtually immediately which leads to solution bias and will tend to narrow the team's focus.
 
 # Establish the Facts
 
@@ -31,7 +39,6 @@ The key is to remove words that draw conclusions or convey intent.  Instead, the
 
 Depending on the scope of the incident, a small team qualified to understand the facts should conduct the review with the goal of arriving at a consensus analysis.  The analysis goes beyond just cause & effect - it's essential to consider:
 
-* Qualifications: To what degree where the people involved adequately trained nad experienced for the roles they were being asked to perform?
-* Context of Actions: What else was happening when the events of the incident were taking place, and how could they have affected the decisions that took place?
-* What Worked: Even in the worst incident, many things worked well - an equally valuable lesson.
-
+* **Qualifications**: To what degree where the people involved adequately trained nad experienced for the roles they were being asked to perform?
+* **Context of Actions**: What else was happening when the events of the incident were taking place, and how could they have affected the decisions that took place?
+* **What Worked**: Even in the worst incident, many things worked well - an equally valuable lesson.
