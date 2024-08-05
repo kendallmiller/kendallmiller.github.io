@@ -45,7 +45,7 @@ social:
 hero:
   enable: true
   hero__title: Let's make it happen!
-  hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors.
+  hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors. <br />If your company has a challenge, let's talk about how I can help - as an advisor, consultant, or fractional CxO.
   hero__image: "/images/hero1.png"
 
 

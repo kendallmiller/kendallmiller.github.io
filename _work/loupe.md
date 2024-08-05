@@ -5,7 +5,7 @@ category: Product Development
 date: 2014-01-01
 last_modified_at: 2024-08-03
 role: Chief Technology Officer
-image: '/images/apm-saas.jpg'
+image: '/images/loupe-logo.svg'
 image_caption: 'Photo by [Stephen Dawson](https://unsplash.com/@dawson2406)'
 ---
 
