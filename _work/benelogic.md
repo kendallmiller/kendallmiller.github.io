@@ -9,6 +9,8 @@ image: '/images/benefits-admin-saas.jpg'
 image_caption: 'Photo by [National Cancer Institute](https://unsplash.com/@nci)'
 ---
 
+# My Role
+
 Principal technologist brought into a benefits administration startup that had to deliver a configuration-driven web benefits administration platform in 120 days, or the startup would fail.  Successfully sequenced functionality to deliver the web experience needed for internal & external customers and implemented data exchange systems so tens of thousands of employees received their benefits on time.
 
 Hired as the permanent CIO reporting to the CEO.  Responsible for Product Development, IT Operations, and Systems Integration (responsible for daily data exchange with customers and vendors).
