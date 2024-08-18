@@ -8,42 +8,21 @@ tags: [Management]
 
 _What are we doing to make sure this never happens again?_
 
-When something's gone wrong, it's inevitable someone in leadership will ask that question.  It makes sense - once you've identified what could go wrong, you should identify what to change to ensure it can't happen again.
+When something's gone wrong, someone in leadership will inevitably ask that question.  It makes sense - once you've identified what could go wrong, you should determine what to change to ensure it can't happen again.
 
-You're going to feel almost overwhelming pressure to come up with a change, no matter the cost, that emphatically addresses the underlying causes and demonstrates how seriously you're taking it.  The classic fixing the barn door once the horses are gone.  Everyone loves a clean story to communicate with here's what happened, why we didn't see it before, and what we're doing to make sure you're never impacted by something like this again.  
+You're going to feel almost overwhelming pressure to come up with a change, no matter the cost, that emphatically addresses the underlying causes and demonstrates how seriously you're taking it.  The classic fixing the barn door once the horses are gone.  Everyone loves a clean story to communicate with here's what happened, why we didn't see it before, and what we're doing to make sure you're never impacted by something like this again.  
 
 Before you pull the whole team together and commit to spending time & treasure on a change, stop and ask yourself:
 
 1. Is this likely to happen again?
 2. What did it really cost?
-3. Are the remediation options cost effective?
-
-Sometimes the answer to the question is _We're going to do nothing - this is a reasonable risk and we should continue to run it._
-
-# The Cost of Never Again
-
-For any potential problem - system outage, data corruption, slow performance - as you lower the probability it happens the costs of the next step will go up until it's ridiculous.  We intuitively know this in the abstract: we've seen the costs of specialized "can't fail" equipment - on aircraft you've flown in or hospitals.  
-
-Let's say yo
-_What are we doing to make sure this never happens again?_
-
-When something goes wrong, it's inevitable that someone in leadership will ask that question. It makes sense — once you've identified what could go wrong, you should determine what to change to ensure it can't happen again.
-
-You're going to feel almost overwhelming pressure to come up with a change, no matter the cost, that emphatically addresses the underlying causes and demonstrates how seriously you're taking it.  The classic fixing the barn door once the horses are gone.  Everyone loves a clean story to communicate to stakeholders:
-
-"Here's what happened, why we didn't see it before, and what we're doing to ensure you're never impacted by something like this again."
-
-Before you pull the whole team together and commit to spending time & treasure on a change, stop and ask yourself:
-
-1. Is this likely to happen again?
-2. What did it _really_ cost?
 3. Are the remediation options cost-effective?
 
-Sometimes, the answer to the question is _We're going to do nothing - this is a reasonable risk, and we should continue to run it._
+Sometimes, the answer to the question is _We're going to do nothing - this is a reasonable risk and we should continue to run it._
 
 # The Cost of Never Again
 
-For any potential problem — system outage, data corruption, staff error  — the cost of each step you take to lower the probability it happens will go up until it's ridiculous. We intuitively know this in the abstract: we've heard stories about the cost of specialized "can't fail" equipment on aircraft you've flown in or in hospitals for medical care.
+For any potential problem — system outage, data corruption, staff error  — the cost of each step you take to lower the probability it happens will go up until it's ridiculous. We intuitively know this in the abstract: we've heard stories about the cost of specialized "can't fail" equipment on aircraft you've flown in or in hospitals for medical care.
 
 Let's start with a simple example. Say you have a website running on a single server, and that server can happily meet your performance goals.  But if any problem happens to that server, you'll be down.  The cost to run on two servers isn't double - it's higher.  You need to:
 
@@ -54,11 +33,17 @@ Let's start with a simple example. Say you have a website running on a single se
 
 For most systems we're willing to accept the cost of two servers - the improvement in availability easily pays off.  Going beyond this, the costs quickly get unbearable: Protecting against a failure at the network or data center level can get extraordinary, and unless you're running air traffic control, tripling the cost of all your hosting & infrastructure for such a small improvement isn't justified.
 
-Cost isn't just direct expenses like paying for a redundant system or additional staff.  For example, you may look at a problem and decide that the incident could have been avoided if only another department had reviewed the change before it went live.  But, each step in a process adds weight to your organization that slows you down.  When you come into a new company and see that the accounting department has to sign off on every new version of your system, ten to one that step was put in there because of an incident years ago.
+## Even if you're flush, the cost can bankrupt you
+
+Cost isn't just direct expenses like paying for a redundant system or additional staff.  A more treacherous cost is the impact on an organization's competitiveness created by the additional inertia and drag these redundancies and safeties create.
+
+For example, you may look at a problem and decide that the incident could have been avoided if only another department had reviewed the change before it went live.  But, each step in a process adds weight to your organization that slows you down.  Like kelp on a sailboat's hull, each individual strand has only a small impact, but the drag builds up over time.  
+
+When you come into a new company and see that the accounting department has to sign off on every new version of your system, ten to one, that step was put in there because of an incident years ago - and it's probably not prevented one since.
 
 # What was the True cost of the incident?
 
-When an incident happens, we tend to overstate the impact - we talk of the worst-case scenario and act as if that came to pass.  Customers leaving in droves, refunds granted, lawsuits filed.  When the dust settles and little if any of this is done, it's often credited to the quick actions of your Customer Success team, leadership, or luck - _we dodged a bullet this time._
+When an incident happens, we tend to overstate the impact - we talk of the worst-case scenario and act as if that came to pass.  Customers leaving in droves, refunds granted, lawsuits filed.  When the dust settles and little, if any, of this happens, it's often credited to the quick actions of your Customer Success team, leadership, or luck - _we dodged a bullet this time._
 
 To help teams gauge cost in a practical way, I encourage them to think of the impact of an incident on a scale of:
 
@@ -70,10 +55,14 @@ To help teams gauge cost in a practical way, I encourage them to think of the im
 
 For most companies, incidents land around 4 or 5.  Having a full scale you've discussed up front gives your team perspective: An emergency feels like an emergency - so putting the consequence in context can help focus on what needs to be done without overreacting.
 
-# Learn, Improve, and Move On
-
 Conversely, while you can get away with minimal impact from one incident, a series of incidents could be unrecoverable.  The withdrawal from your credibility account with your customers is likely the most expensive aspect of the outage.
 
-As soon as the dust settles, it's essential to do an incident review - focused on learning as much as you can about how the whole organization handled it.  You may need to adjust some assumptions around risk, but remember your systems were good enough to get you to where you are - and change has its own cost and risk.  There will be many potential improvements you can make, but in the end, those improvements need to compete with everything else the company could take on.
+# Learn, Improve, and Move On
 
-The smaller you are, the more likely the answer is: "This is a reasonable risk, and we should continue to run it.
+As soon as the dust settles, it's essential to do an incident review - focused on learning as much as you can about how the whole organization handled it.  You may need to adjust some assumptions around risk, but remember your systems were good enough to get you to where you are - and change has its own cost and risk.  There will be many potential improvements you could make, but in the end, those improvements need to compete with everything else the company could take on.
+
+## Practice Leadership Courage
+
+As a leader, use your incident to reinforce the culture you want to create in your organization. Actions speak louder than words: If you overreact to the problem, you teach your employees to play it safe. Alternatively, it could be that your business has grown to the point where you should formalize new processes and acknowledge you're not the scrappy startup you once were.
+
+The smaller you are, the more likely the answer is: "This is a reasonable risk, and we should continue to run it."
