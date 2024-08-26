@@ -2,7 +2,7 @@
 # Site Settings
 title: Kendall W. Miller
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Entrepreneurial IT Executive - Kendall Miler
+description: Growth & Turnaround CTO/CEO - Kendall Miler
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -44,8 +44,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Let's make it happen!
-  hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors. <br />If your company has a challenge, let's talk about how I can help - as an advisor, consultant, or fractional CxO.
+  hero__title: Turnaround CxO for Your Company
+  hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / COO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors.<br /><br />If your company is facing a problem and you're not sure how to surmount it, let's talk about how I can help - as an advisor, consultant, or fractional CxO.
   hero__image: "/images/hero1.png"
 
 
@@ -63,7 +63,7 @@ mailchimp:
 work:
   enable: true
   work__title: Work
-  work__description: I enjoy taking on the hard problems
+  work__description: Solving hard problems that matter
 
 
 #-------------------------------
