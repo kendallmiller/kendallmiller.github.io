@@ -6,6 +6,8 @@ date: 2024-06-17
 tags: [Management]
 ---
 
+The world of commercial aviation is unique - it has a hard-earned reputation for extraordinary safety. This isn't a marketing phrase or hyperbole; it comes from a relentless application of continuous improvement.  You may be thinking "Ah, Continuous improvement - like practiced by Toyota to build cars" but this is a different level.  What sets Aviation apart is the application of a no-blame incident review process over decades to refine equipment, processes - and mindsets.  It's a well proven path to long-term success - that you can leverage for your organization.  It all starts with the Incident Review.
+
 The key components of an incident review are:
 
 1. **Statement of Facts**: What exactly happened, when, by whom without commentary or opinion.
@@ -42,3 +44,12 @@ Depending on the scope of the incident, a small team qualified to understand the
 * **Qualifications**: To what degree where the people involved adequately trained nad experienced for the roles they were being asked to perform?
 * **Context of Actions**: What else was happening when the events of the incident were taking place, and how could they have affected the decisions that took place?
 * **What Worked**: Even in the worst incident, many things worked well - an equally valuable lesson.
+
+## Practicing the Five Whys
+
+A powerful tactic for digging through surface observations to useful insights about root causes is the Five Whys.  Simply put, the Five Whys is done by repeatedly asking the question "Why?" with each answer forms the basis of the next "Why?" question.
+
+(insert example of five whys)
+
+To get the most out of your assessment, do multiple passes of this approach, branching from the first Why with the top few causes - creating a tree of factors.  Seeing the multiple paths that all cane together to create the incident can reveal the most effective remedies you can introduce that cover multiple failure paths.
+ 
