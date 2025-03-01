@@ -54,14 +54,28 @@ layout: default
 
     </div>
 
-    {%if page.image %}
+    {% if page.youtube_id %}
+    <div class="post-video">
+      <div class="video-wrapper">
+        <iframe 
+          src="https://www.youtube.com/embed/{{ page.youtube_id }}"
+          loading="lazy"
+          frameborder="0"
+          style="width: 100%; aspect-ratio: 16 / 9;"
+          webkitallowfullscreen 
+          mozallowfullscreen 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+    {% elsif page.image %}
     <div class="post-image">
       <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
     </div>
     {% if page.image_caption %}
     <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
     {% endif %}
-    {%endif %}
+    {% endif %}
 
   </div>
 </div>
