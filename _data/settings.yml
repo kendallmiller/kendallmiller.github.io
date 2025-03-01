@@ -2,7 +2,7 @@
 # Site Settings
 title: Kendall W. Miller
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Growth & Turnaround CTO/CEO - Kendall Miler
+description: Growth & Transformation CTO/CEO - Kendall Miler
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -44,7 +44,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Turnaround CTO/CPTO for Your Company
+  hero__title: Transformation CTO/CPTO for Your Company
   hero__description: I've built a career solving hard problems for technology companies.  As a hands-on CTO / CPTO I specialize in helping SaaS companies beat the expectations of their customers, investors - and competitors.<br /><br />If your company is facing a problem and you're not sure how to surmount it, let's talk about how I can help - as an advisor, consultant, or fractional executive.
   hero__image: "/images/hero1.png"
 
