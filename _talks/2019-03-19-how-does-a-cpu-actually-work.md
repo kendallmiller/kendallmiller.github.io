@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: talk        
 title: How does a CPU actually work?
 description: 'Megahertz, Gigahertz, Registers, and Instructions: How does a CPU actually work?'
 date: 2019-03-19
 tags: [Product, Onboarding]
+youtube_id: 0Rnjq20fhUc
 ---
-
-youtube 
-
-<p><iframe src="https://www.youtube.com/embed/0Rnjq20fhUc" loading="lazy" frameborder="0" style="width: 100%; aspect-ratio: 16 / 9;" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></p>
 
 # Megahertz, Gigahertz, Registers, and Instructions: How does a CPU actually work?
 

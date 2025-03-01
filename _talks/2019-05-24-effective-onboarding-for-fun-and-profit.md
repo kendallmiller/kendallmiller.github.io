@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: talk
 title: Effective Onboarding for Fun & Profit
 description: How not to be the best application no one uses
 date: 2019-05-24
 tags: [Product, Onboarding]
+youtube_id: BvVNGTAbPss
 ---
-
-<p><iframe src="https://www.youtube.com/embed/BvVNGTAbPss" loading="lazy" frameborder="0" style="width: 100%; aspect-ratio: 16 / 9;" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></p>
 
 # Effective Onboarding for Fun & Profit
 
